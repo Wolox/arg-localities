@@ -26,7 +26,7 @@ PROVINCES['T']='Tucumán'
 PROVINCES['U']='Chubut'
 PROVINCES['V']='Tierra del Fuego, Antártida e Islas del Atlántico Sur'
 PROVINCES['W']='Corrientes'
-PROVINCES['X']='Códroba'
+PROVINCES['X']='Córdoba'
 PROVINCES['Y']='Jujuy'
 PROVINCES['Z']='Santa Cruz'
 
