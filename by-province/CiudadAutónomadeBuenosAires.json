@@ -1,1 +1,11 @@
-{"iso_31662":"AR-C", "province":"Ciudad Autnoma de Buenos Aires", "localities":[{"id":"5001","name":"CIUDAD AUTONOMA BUENOS AIRES","cp":""}]}
+{
+  "iso_31662": "AR-C",
+  "province": "Ciudad Autónoma de Buenos Aires",
+  "localities": [
+    {
+      "id": "5001",
+      "name": "CIUDAD AUTONOMA BUENOS AIRES",
+      "cp": ""
+    }
+  ]
+}

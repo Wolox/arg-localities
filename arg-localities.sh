@@ -7,35 +7,35 @@
 declare -A PROVINCES
 PROVINCES['A']='Salta'
 PROVINCES['B']='Buenos Aires'
-PROVINCES['C']='Ciudad Autónoma de Buenos Aires'
+PROVINCES['C']='Ciudad Aut\u00F3noma de Buenos Aires'
 PROVINCES['D']='San Luis'
-PROVINCES['E']='Entre Ríos'
+PROVINCES['E']='Entre R\u00EDos'
 PROVINCES['F']='La Rioja'
 PROVINCES['G']='Santiago del Estero'
 PROVINCES['H']='Chaco'
 PROVINCES['J']='San Juan'
 PROVINCES['K']='Catamarca'
-PROVINCES['L']='la Pampa'
+PROVINCES['L']='La Pampa'
 PROVINCES['M']='Mendoza'
 PROVINCES['N']='Misiones'
 PROVINCES['P']='Formosa'
-PROVINCES['Q']='Neuquén'
-PROVINCES['R']='Río Negro'
+PROVINCES['Q']='Neuqu\u00E9n'
+PROVINCES['R']='R\u00EDo Negro'
 PROVINCES['S']='Santa Fe'
-PROVINCES['T']='Tucumán'
+PROVINCES['T']='Tucum\u00E1n'
 PROVINCES['U']='Chubut'
-PROVINCES['V']='Tierra del Fuego, Antártida e Islas del Atlántico Sur'
+PROVINCES['V']='Tierra del Fuego, Ant\u00E1rtida e Islas del Atl\u00E1ntico Sur'
 PROVINCES['W']='Corrientes'
-PROVINCES['X']='Córdoba'
+PROVINCES['X']='C\u00F3rdoba'
 PROVINCES['Y']='Jujuy'
 PROVINCES['Z']='Santa Cruz'
 
 rm -rf by-province
 mkdir by-province
 
-echo '## Processing all provinces...'
+echo -e '## Processing all provinces...'
 for i in A B C D E F G H J K L M N P Q R S T U V W X Y Z; do
-  echo "  ## Processing province ${PROVINCES[${i}]}"
+  echo -e "  ## Processing province ${PROVINCES[${i}]}"
   text="{\"iso_31662\":\"AR-${i}\", \"province\":\"${PROVINCES[${i}]}\", \"localities\":"
   text="${text}`curl -s 'http://www.correoargentino.com.ar/sites/all/modules/custom/ca_forms/api/wsFacade.php' \
   -H 'Cookie: has_js=1; _ga=GA1.3.1461637301.1485963032; __atuvc=1%7C5%2C0%7C6%2C0%7C7%2C0%7C8%2C7%7C9; __atuvs=58b987e75cac7710006' \
@@ -52,15 +52,15 @@ for i in A B C D E F G H J K L M N P Q R S T U V W X Y Z; do
   # tr command needed to delete invisible character on curl
   # http://alvinalexander.com/blog/post/linux-unix/how-remove-non-printable-ascii-characters-file-unix
   text=$(echo ${text} | tr -cd '\11\12\15\40-\176')
-  CURRENT_FILE=$(echo "by-province/${PROVINCES[${i}]}.json" | tr -d '[:space:]')
-  echo ${text} > ${CURRENT_FILE}
+  CURRENT_FILE=$(echo -e "by-province/${PROVINCES[${i}]}.json" | tr -d '[:space:]')
+  echo ${text} | jq '.' | cat > ${CURRENT_FILE}
   echo '    ## [DONE]'
 
   # Append current province localities to full json
   if [ -z "${full_json}" ]; then
     full_json="[${text}"
   else
-    full_json="${full_json}, ${text}"
+    full_json="${full_json},${text}"
   fi
   echo "  ## [DONE]"
 done
@@ -71,5 +71,5 @@ echo '## Saving all localities per province...'
 full_json="${full_json}]"
 
 rm -f arg-localities.json
-echo ${full_json} > arg-localities.json
+echo ${full_json} | jq '.' | cat > arg-localities.json
 echo '## [DONE]'

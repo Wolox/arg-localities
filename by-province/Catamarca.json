@@ -1,1 +1,4841 @@
-{"iso_31662":"AR-K", "province":"Catamarca", "localities":[{"id":"10614","name":"ACHALCO","cp":"4234"},{"id":"16815","name":"ACHERAL","cp":"5260"},{"id":"10440","name":"ACONQUIJA","cp":"4743"},{"id":"10352","name":"ACOSTILLA","cp":"4701"},{"id":"10561","name":"ADOLFO E CARRANZA","cp":"5263"},{"id":"10888","name":"AGUA AMARILLA LA HOYADA","cp":"4139"},{"id":"10889","name":"AGUA AMARILLA PTA DE BALASTO","cp":"4139"},{"id":"11056","name":"AGUA COLORADA","cp":"4724"},{"id":"10487","name":"AGUA COLORADA","cp":"4750"},{"id":"10488","name":"AGUA DE DIONISIO","cp":"4751"},{"id":"10441","name":"AGUA DE LAS PALOMAS","cp":"4741"},{"id":"16774","name":"AGUA DEL CAMPO","cp":"4750"},{"id":"10353","name":"AGUA DEL SIMBOL","cp":"5261"},{"id":"16816","name":"AGUA ESCONDIDA","cp":"5260"},{"id":"16877","name":"AGUA GRANDE","cp":"5340"},{"id":"10354","name":"AGUA LOS MATOS","cp":"5265"},{"id":"16762","name":"AGUA SALADA","cp":"4740"},{"id":"16604","name":"AGUA VERDE","cp":"4715"},{"id":"10442","name":"AGUA VERDE","cp":"4740"},{"id":"16878","name":"AGUADA","cp":"5340"},{"id":"16765","name":"AGUADITA","cp":"4705"},{"id":"10489","name":"AGUAS CALIENTES","cp":"4751"},{"id":"10615","name":"ALBIGASTA","cp":"4231"},{"id":"10684","name":"ALBIGASTA","cp":"4235"},{"id":"16763","name":"ALGARROBAL","cp":"4740"},{"id":"10934","name":"ALIJILAN","cp":"4723"},{"id":"10935","name":"ALMIGAUCHO","cp":"4723"},{"id":"10936","name":"ALTA GRACIA","cp":"4723"},{"id":"10685","name":"ALTO BELLO","cp":"5261"},{"id":"10443","name":"ALTO DE LA JUNTA","cp":"4743"},{"id":"10355","name":"ALTO DEL ROSARIO","cp":"5261"},{"id":"10490","name":"ALTO EL BOLSON","cp":"4751"},{"id":"10816","name":"AMADORES","cp":"4716"},{"id":"10356","name":"AMANA","cp":"4701"},{"id":"10445","name":"AMANAO","cp":"4741"},{"id":"10937","name":"AMANCALA","cp":"4723"},{"id":"10305","name":"AMBATO","cp":"4711"},{"id":"10890","name":"AMPAJANGO","cp":"4139"},{"id":"10938","name":"AMPOLLA","cp":"4723"},{"id":"10491","name":"AMPUJACO","cp":"4750"},{"id":"10357","name":"ANCASTI","cp":"4701"},{"id":"10686","name":"ANCASTILLO","cp":"4231"},{"id":"16879","name":"ANCHOCA","cp":"5340"},{"id":"10446","name":"ANDALGALA","cp":"4740"},{"id":"10891","name":"ANDALHUALA","cp":"4139"},{"id":"10981","name":"ANDALUCIA","cp":"5331"},{"id":"10687","name":"ANGELINA","cp":"5264"},{"id":"16775","name":"ANGOSTURA","cp":"4750"},{"id":"10982","name":"ANILLACO","cp":"5341"},{"id":"10688","name":"ANJULI","cp":"4231"},{"id":"10358","name":"ANQUINCILA","cp":"4701"},{"id":"11057","name":"ANTAPOCA","cp":"4705"},{"id":"27617","name":"ANTINACO","cp":"5341"},{"id":"10486","name":"ANTOFAGASTA DE LA SIERRA","cp":"4705"},{"id":"16880","name":"APOCANGO","cp":"5340"},{"id":"10861","name":"APOYACO","cp":"5317"},{"id":"16764","name":"ARIMA","cp":"4740"},{"id":"10492","name":"ASAMPAY","cp":"4751"},{"id":"10447","name":"ASERRADERO EL PILCIO","cp":"4740"},{"id":"10616","name":"AYAPASO","cp":"4234"},{"id":"10817","name":"BALCOSNA","cp":"4719"},{"id":"10818","name":"BALCOSNA DE AFUERA","cp":"4719"},{"id":"16840","name":"BALDE","cp":"5260"},{"id":"10562","name":"BALDE LA PUNTA","cp":"5263"},{"id":"10563","name":"BALDE NUEVO","cp":"5263"},{"id":"16766","name":"BALSA","cp":"4705"},{"id":"16881","name":"BALUNGASTA","cp":"5340"},{"id":"10689","name":"BA\u00d1ADO DE DIVISADERO","cp":"5261"},{"id":"10939","name":"BA\u00d1ADO DE OVANTA","cp":"4723"},{"id":"10892","name":"BANDA","cp":"4139"},{"id":"10983","name":"BANDA DE LUCERO","cp":"5333"},{"id":"10597","name":"BANDA VARELA","cp":"4700"},{"id":"10984","name":"BA\u00d1OS TERMALES","cp":"5345"},{"id":"10493","name":"BARRANCA LARGA","cp":"4751"},{"id":"10617","name":"BARRANQUITAS","cp":"4235"},{"id":"16850","name":"BARRO NEGRO","cp":"4718"},{"id":"16851","name":"BASTIDOR","cp":"4718"},{"id":"10690","name":"BAVIANO","cp":"5265"},{"id":"10618","name":"BEBIDA","cp":"4235"},{"id":"10494","name":"BELEN","cp":"4750"},{"id":"10619","name":"BELLA VISTA","cp":"4235"},{"id":"27620","name":"BELLA VISTA","cp":"4715"},{"id":"16605","name":"BISCOTAL","cp":"4715"},{"id":"10359","name":"BREA","cp":"5265"},{"id":"10620","name":"BREA CHIMPANA","cp":"4230"},{"id":"16817","name":"BUEN RETIRO","cp":"5260"},{"id":"10448","name":"BUENA VISTA","cp":"4743"},{"id":"10564","name":"BUENA VISTA","cp":"5263"},{"id":"16855","name":"BUEY MUERTO","cp":"4139"},{"id":"16841","name":"BUEY MUERTO","cp":"5260"},{"id":"10691","name":"CABALLA","cp":"5261"},{"id":"10360","name":"CABRERA","cp":"4701"},{"id":"10940","name":"CACHI","cp":"4723"},{"id":"10495","name":"CACHIJAN","cp":"4751"},{"id":"16800","name":"CACHUAN","cp":"4750"},{"id":"10361","name":"CALACIO","cp":"4701"},{"id":"10362","name":"CALERA","cp":"4701"},{"id":"10862","name":"CALERA LA NORMA","cp":"5315"},{"id":"10893","name":"CAMPITOS","cp":"4139"},{"id":"16818","name":"CAMPO BELLO","cp":"5260"},{"id":"16819","name":"CAMPO BLANCO","cp":"5260"},{"id":"10692","name":"CA\u00d1ADA","cp":"5264"},{"id":"10363","name":"CA\u00d1ADA DE IPIZCA","cp":"4701"},{"id":"10364","name":"CA\u00d1ADA DE PAEZ","cp":"4701"},{"id":"10365","name":"CA\u00d1ADA LARGA","cp":"5265"},{"id":"27875","name":"CANDELARIA","cp":"4231"},{"id":"10366","name":"CANDELARIA","cp":"4701"},{"id":"16882","name":"CANTERA ROTA","cp":"5340"},{"id":"10565","name":"CAPAYAN","cp":"4726"},{"id":"10449","name":"CARAPUNCO","cp":"4741"},{"id":"16871","name":"CARIDAD","cp":"4723"},{"id":"10496","name":"CARRIZAL","cp":"4751"},{"id":"10985","name":"CARRIZAL","cp":"5333"},{"id":"10497","name":"CARRIZAL DE ABAJO","cp":"4751"},{"id":"10498","name":"CARRIZAL DE LA COSTA","cp":"4751"},{"id":"10367","name":"CASA ARMADA","cp":"4701"},{"id":"16883","name":"CASA DE ALTO","cp":"5340"},{"id":"10368","name":"CASA DE LA CUMBRE","cp":"5261"},{"id":"10895","name":"CASA DE PIEDRA","cp":"4139"},{"id":"10450","name":"CASA DE PIEDRA","cp":"4741"},{"id":"16776","name":"CASA GRANDE","cp":"4750"},{"id":"16884","name":"CASA GRANDE","cp":"5340"},{"id":"10369","name":"CASA VIEJA","cp":"4701"},{"id":"10307","name":"CASA VIEJAS","cp":"4711"},{"id":"10894","name":"CASPINCHANGO","cp":"4139"},{"id":"16885","name":"CASTA\u00d1AR","cp":"5340"},{"id":"16820","name":"CATITA","cp":"5260"},{"id":"16886","name":"CERDAS","cp":"5340"},{"id":"10694","name":"CERRILLADA","cp":"5264"},{"id":"10566","name":"CERRILLOS","cp":"4139"},{"id":"10896","name":"CERRILLOS","cp":"4139"},{"id":"16856","name":"CERRO COLORADO","cp":"4139"},{"id":"16842","name":"CERRO COLORADO","cp":"5260"},{"id":"10986","name":"CERRO NEGRO","cp":"5331"},{"id":"10819","name":"CERVI\u00d1O","cp":"4716"},{"id":"10599","name":"CHACABUCO","cp":"4700"},{"id":"10370","name":"CHACRITAS","cp":"5265"},{"id":"10897","name":"CHAFI\u00d1AN","cp":"4139"},{"id":"10308","name":"CHAMORRO","cp":"4715"},{"id":"10621","name":"CHA\u00d1AR LAGUNA","cp":"4234"},{"id":"10898","name":"CHA\u00d1AR PUNCO","cp":"4139"},{"id":"16931","name":"CHA\u00d1ARCITO","cp":"4707"},{"id":"10695","name":"CHA\u00d1ARITOS","cp":"5264"},{"id":"10451","name":"CHA\u00d1ARYACO","cp":"4751"},{"id":"16887","name":"CHANERO","cp":"5340"},{"id":"10452","name":"CHAQUIAGO","cp":"4741"},{"id":"10309","name":"CHAVARRIA","cp":"4715"},{"id":"16888","name":"CHAVERO","cp":"5340"},{"id":"10696","name":"CHICHAGASTA","cp":"5266"},{"id":"16852","name":"CHIFLON","cp":"4718"},{"id":"10453","name":"CHILCA","cp":"4740"},{"id":"16777","name":"CHIQUERITO","cp":"4750"},{"id":"10454","name":"CHOYA","cp":"4741"},{"id":"10310","name":"CHUCHUCARUANA","cp":"4711"},{"id":"16778","name":"CHUCOLAY","cp":"4750"},{"id":"10568","name":"CHUMBICHA","cp":"4728"},{"id":"16857","name":"CIENAGA","cp":"4139"},{"id":"16862","name":"CIENAGA","cp":"5260"},{"id":"10987","name":"CIENAGUITA","cp":"5333"},{"id":"10672","name":"COLLAGASTA","cp":"4711"},{"id":"10569","name":"COLONIA DEL VALLE","cp":"4726"},{"id":"10570","name":"COLONIA NUEVA CONETA","cp":"4724"},{"id":"10311","name":"COLPES","cp":"4711"},{"id":"10863","name":"COLPES","cp":"5319"},{"id":"10371","name":"CONCEPCION","cp":"4701"},{"id":"10571","name":"CONCEPCION","cp":"4726"},{"id":"10455","name":"CONDOR HUASI","cp":"4711"},{"id":"10499","name":"CONDOR HUASI DE BELEN","cp":"4751"},{"id":"10572","name":"CONETA","cp":"4724"},{"id":"10988","name":"COPACABANA","cp":"5333"},{"id":"10989","name":"CORDOBITA","cp":"5331"},{"id":"10372","name":"CORRAL DE PIEDRA","cp":"4701"},{"id":"10990","name":"CORRAL DE PIEDRA","cp":"5341"},{"id":"10500","name":"CORRAL QUEMADO","cp":"4751"},{"id":"16939","name":"CORRAL VIEJO","cp":"4139"},{"id":"10373","name":"CORRAL VIEJO","cp":"4701"},{"id":"16606","name":"CORRALITA","cp":"4715"},{"id":"10501","name":"CORRALITO","cp":"4753"},{"id":"10374","name":"CORRALITO","cp":"5265"},{"id":"10697","name":"CORRALITOS","cp":"4230"},{"id":"16779","name":"CORTADERA","cp":"4750"},{"id":"16938","name":"CORTADERA","cp":"5340"},{"id":"10941","name":"CORTADERAS","cp":"4237"},{"id":"10698","name":"CORTADERAS","cp":"5261"},{"id":"10991","name":"COSTA DE REYES","cp":"5341"},{"id":"10502","name":"COTAGUA","cp":"4751"},{"id":"16780","name":"CUEVA BLANCA","cp":"4750"},{"id":"10503","name":"CULAMPAJA","cp":"4751"},{"id":"16767","name":"CUMBRE DEL LAUDO","cp":"4705"},{"id":"16863","name":"DESRUMBE","cp":"4139"},{"id":"10456","name":"DISTRITO ESPINILLO","cp":"4740"},{"id":"10699","name":"DIVISADERO","cp":"5260"},{"id":"10942","name":"DOS POCITOS","cp":"4723"},{"id":"10943","name":"DOS TRONCOS","cp":"4723"},{"id":"16805","name":"DURAZNILLO","cp":"4750"},{"id":"10504","name":"DURAZNO","cp":"4753"},{"id":"10700","name":"EL ABRA","cp":"5261"},{"id":"10457","name":"EL ALAMITO","cp":"4743"},{"id":"10622","name":"EL ALTO","cp":"4235"},{"id":"10992","name":"EL ALTO","cp":"5333"},{"id":"10312","name":"EL ARBOL SOLO","cp":"4711"},{"id":"10375","name":"EL ARBOLITO","cp":"4701"},{"id":"10458","name":"EL ARBOLITO","cp":"4743"},{"id":"10376","name":"EL ARENAL","cp":"5261"},{"id":"10899","name":"EL ARROYO","cp":"4139"},{"id":"10313","name":"EL ATOYAL","cp":"4715"},{"id":"10701","name":"EL AYBAL","cp":"5261"},{"id":"10900","name":"EL BALDE","cp":"4139"},{"id":"11058","name":"EL BA\u00d1ADO","cp":"4707"},{"id":"10573","name":"EL BA\u00d1ADO","cp":"4724"},{"id":"10702","name":"EL BA\u00d1ADO","cp":"5261"},{"id":"10377","name":"EL BARREAL","cp":"4701"},{"id":"10703","name":"EL BARREAL","cp":"5260"},{"id":"10704","name":"EL BARRIAL","cp":"5261"},{"id":"10705","name":"EL BARRIALITO","cp":"4231"},{"id":"10993","name":"EL BARRIALITO","cp":"5345"},{"id":"10820","name":"EL BASTIDOR","cp":"4718"},{"id":"10706","name":"EL BELLO","cp":"5260"},{"id":"10314","name":"EL BISCOTE","cp":"4715"},{"id":"10315","name":"EL BOLSON","cp":"4711"},{"id":"10994","name":"EL CACHIYUYO","cp":"5341"},{"id":"10707","name":"EL CACHO","cp":"5261"},{"id":"10901","name":"EL CAJON","cp":"4139"},{"id":"10505","name":"EL CAJON","cp":"4751"},{"id":"10902","name":"EL CALCHAQUI","cp":"4139"},{"id":"10506","name":"EL CAMPILLO","cp":"4751"},{"id":"10944","name":"EL CARMEN","cp":"4723"},{"id":"10574","name":"EL CARRIZAL","cp":"4726"},{"id":"10459","name":"EL CARRIZAL","cp":"4741"},{"id":"10507","name":"EL CARRIZAL","cp":"4751"},{"id":"10708","name":"EL CENTENARIO","cp":"4231"},{"id":"10378","name":"EL CERCADO","cp":"4701"},{"id":"10709","name":"EL CERCADO","cp":"5260"},{"id":"10903","name":"EL CERRITO","cp":"4139"},{"id":"10710","name":"EL CERRITO","cp":"5261"},{"id":"10821","name":"EL CEVIL","cp":"4716"},{"id":"10379","name":"EL CEVILARCITO","cp":"4701"},{"id":"10822","name":"EL CHAMICO","cp":"4719"},{"id":"10380","name":"EL CHA\u00d1ARAL","cp":"4701"},{"id":"10711","name":"EL CHA\u00d1ARAL","cp":"5261"},{"id":"10381","name":"EL CHORRO","cp":"4701"},{"id":"10316","name":"EL CHORRO","cp":"4711"},{"id":"10712","name":"EL CIENAGO","cp":"5261"},{"id":"10823","name":"EL CIFLON","cp":"4719"},{"id":"10460","name":"EL COLEGIO","cp":"4740"},{"id":"10824","name":"EL CONTADOR","cp":"4719"},{"id":"10904","name":"EL DESMONTE","cp":"4139"},{"id":"10673","name":"EL DESMONTE","cp":"4707"},{"id":"10945","name":"EL DESMONTE","cp":"4723"},{"id":"10825","name":"EL DURAZNILLO","cp":"4722"},{"id":"10508","name":"EL DURAZNO","cp":"4751"},{"id":"10509","name":"EL EJE","cp":"4751"},{"id":"10461","name":"EL ESPINILLO","cp":"4743"},{"id":"10713","name":"EL GACHO","cp":"5261"},{"id":"10826","name":"EL GARABATO","cp":"4716"},{"id":"11059","name":"EL HUECO","cp":"4707"},{"id":"10462","name":"EL LINDERO","cp":"4740"},{"id":"10714","name":"EL LINDERO","cp":"5260"},{"id":"10905","name":"EL MEDANITO","cp":"4139"},{"id":"10510","name":"EL MEDIO","cp":"4750"},{"id":"10575","name":"EL MILAGRO","cp":"4726"},{"id":"10715","name":"EL MILAGRO","cp":"5261"},{"id":"10716","name":"EL MISTOLITO","cp":"5261"},{"id":"10382","name":"EL MOJON","cp":"4701"},{"id":"16754","name":"EL MOLINITO","cp":"4715"},{"id":"10511","name":"EL MOLINO","cp":"4750"},{"id":"10383","name":"EL MOLLAR","cp":"4701"},{"id":"10463","name":"EL MOLLE","cp":"4740"},{"id":"10717","name":"EL MORENO","cp":"5261"},{"id":"10317","name":"EL NOGAL","cp":"4711"},{"id":"10864","name":"EL PAJONAL","cp":"5315"},{"id":"10318","name":"EL PARQUE","cp":"4711"},{"id":"10995","name":"EL PE\u00d1ON","cp":"5345"},{"id":"10319","name":"EL PIE DE LA CUESTA","cp":"4711"},{"id":"10320","name":"EL POLEAR","cp":"4711"},{"id":"10718","name":"EL POLEAR","cp":"5261"},{"id":"10512","name":"EL PORTEZUELO","cp":"4750"},{"id":"10719","name":"EL PORTEZUELO","cp":"5261"},{"id":"10321","name":"EL POTRERILLO","cp":"4711"},{"id":"10946","name":"EL POTRERO","cp":"4723"},{"id":"10481","name":"EL POTRERO","cp":"4743"},{"id":"10720","name":"EL POTRERO","cp":"5261"},{"id":"10865","name":"EL POTRERO","cp":"5321"},{"id":"10384","name":"EL POTRERO DE LOS CORDOBA","cp":"4701"},{"id":"10385","name":"EL POZO","cp":"4701"},{"id":"10464","name":"EL PUCARA","cp":"4711"},{"id":"10996","name":"EL PUEBLITO","cp":"5331"},{"id":"10721","name":"EL PUESTITO","cp":"5261"},{"id":"10722","name":"EL PUESTO","cp":"5261"},{"id":"10997","name":"EL PUESTO","cp":"5341"},{"id":"10386","name":"EL QUEBRACHAL","cp":"5261"},{"id":"10947","name":"EL QUEBRACHITO","cp":"4235"},{"id":"10723","name":"EL QUIMILO","cp":"5263"},{"id":"16755","name":"EL REALITO","cp":"4715"},{"id":"16864","name":"EL RECREO","cp":"4139"},{"id":"16843","name":"EL RECREO","cp":"5260"},{"id":"10827","name":"EL RETIRO","cp":"4716"},{"id":"10724","name":"EL RETIRO","cp":"5264"},{"id":"10998","name":"EL RETIRO","cp":"5345"},{"id":"10623","name":"EL RODEITO","cp":"4235"},{"id":"16872","name":"EL RODEITO","cp":"4723"},{"id":"10322","name":"EL RODEO","cp":"4715"},{"id":"10323","name":"EL RODEO GRANDE","cp":"4711"},{"id":"10624","name":"EL ROSARIO","cp":"4235"},{"id":"10828","name":"EL ROSARIO","cp":"4719"},{"id":"10725","name":"EL ROSARIO","cp":"5264"},{"id":"10670","name":"EL SALADILLO","cp":"5261"},{"id":"10387","name":"EL SALTITO","cp":"5261"},{"id":"16811","name":"EL SALTO","cp":"5260"},{"id":"10388","name":"EL SAUCE","cp":"4701"},{"id":"10389","name":"EL SAUCE IPIZCA","cp":"4701"},{"id":"16873","name":"EL SAUCECITO","cp":"4723"},{"id":"10625","name":"EL SIMBOL","cp":"4234"},{"id":"10465","name":"EL SUNCHO","cp":"4743"},{"id":"10726","name":"EL SUNCHO","cp":"5261"},{"id":"10324","name":"EL TABIQUE","cp":"4711"},{"id":"10665","name":"EL TACO","cp":"4701"},{"id":"10600","name":"EL TALA","cp":"4700"},{"id":"10325","name":"EL TALA","cp":"4715"},{"id":"10727","name":"EL TALA","cp":"5264"},{"id":"10999","name":"EL TAMBILLO","cp":"4753"},{"id":"10906","name":"EL TESORO","cp":"4139"},{"id":"10513","name":"EL TIO","cp":"4751"},{"id":"10514","name":"EL TOLAR","cp":"4751"},{"id":"10390","name":"EL TOTORAL","cp":"4701"},{"id":"10829","name":"EL TOTORAL","cp":"4718"},{"id":"10907","name":"EL TRAPICHE","cp":"4139"},{"id":"10728","name":"EL VALLE","cp":"5261"},{"id":"10729","name":"EL VALLECITO","cp":"4230"},{"id":"10626","name":"EL VALLECITO","cp":"4235"},{"id":"10391","name":"EL VALLECITO","cp":"4701"},{"id":"10392","name":"EL ZAPALLAR","cp":"4701"},{"id":"10466","name":"EL ZAPALLAR","cp":"4741"},{"id":"10908","name":"EL ZARZO","cp":"4139"},{"id":"10730","name":"EMPALME SAN CARLOS","cp":"5260"},{"id":"10731","name":"ENSENADA","cp":"5266"},{"id":"10909","name":"ENTRE RIOS","cp":"4139"},{"id":"10732","name":"ESQUIU","cp":"5261"},{"id":"10866","name":"ESTABLECIMIENTO MINERO CERRO B","cp":"5317"},{"id":"10867","name":"ESTACION POMAN","cp":"5315"},{"id":"10393","name":"ESTANCIA","cp":"5265"},{"id":"10910","name":"ESTANCIA VIEJA","cp":"4139"},{"id":"10394","name":"ESTANCIA VIEJA","cp":"4701"},{"id":"16889","name":"ESTANCITO","cp":"5340"},{"id":"16932","name":"ESTANQUE","cp":"4707"},{"id":"10627","name":"ESTANZUELA","cp":"4235"},{"id":"16756","name":"FALDEO","cp":"4715"},{"id":"10911","name":"FAMABALASTRO","cp":"4139"},{"id":"10912","name":"FAMATANCA","cp":"4139"},{"id":"10515","name":"FARALLON NEGRO","cp":"4751"},{"id":"11000","name":"FIAMBALA","cp":"5345"},{"id":"10913","name":"FUERTE QUEMADO","cp":"4141"},{"id":"16757","name":"GALPON","cp":"4715"},{"id":"10733","name":"GARAY","cp":"5261"},{"id":"10734","name":"GARZON","cp":"4231"},{"id":"16768","name":"GENTILE","cp":"4705"},{"id":"10395","name":"GUANACO","cp":"4701"},{"id":"16890","name":"GUANCHICITO","cp":"5340"},{"id":"16891","name":"GUANCHIN","cp":"5340"},{"id":"10628","name":"GUAYAMBA","cp":"4235"},{"id":"16892","name":"GUINCHO","cp":"5340"},{"id":"10396","name":"HIGUERA DEL ALUMBRE","cp":"4701"},{"id":"10467","name":"HUACO","cp":"4741"},{"id":"10516","name":"HUACO","cp":"4750"},{"id":"10830","name":"HUACRA","cp":"4722"},{"id":"10517","name":"HUALFIN","cp":"4751"},{"id":"10469","name":"HUASAN","cp":"4740"},{"id":"10518","name":"HUASAYACO","cp":"4751"},{"id":"10468","name":"HUASCHASCHI","cp":"4740"},{"id":"10519","name":"HUASI CIENAGA","cp":"4751"},{"id":"11060","name":"HUAYCAMA","cp":"4705"},{"id":"10576","name":"HUILLAPIMA","cp":"4726"},{"id":"10326","name":"HUMAYA","cp":"4711"},{"id":"10914","name":"IAPES","cp":"4139"},{"id":"10735","name":"ICA\u00d1O","cp":"5265"},{"id":"10629","name":"ICHIPUCA","cp":"4234"},{"id":"10630","name":"ILOGA","cp":"4235"},{"id":"10631","name":"INACILLO","cp":"4235"},{"id":"10632","name":"INFANZON","cp":"4235"},{"id":"10397","name":"IPIZCA","cp":"4701"},{"id":"10327","name":"ISLA LARGA","cp":"4711"},{"id":"10520","name":"JACIPUNCO","cp":"4751"},{"id":"10736","name":"JESUS MARIA","cp":"5264"},{"id":"10868","name":"JOYANGO","cp":"5321"},{"id":"16854","name":"JOYANGUITO","cp":"5315"},{"id":"10915","name":"JULIPAO","cp":"4139"},{"id":"27593","name":"JULUMAO","cp":"4740"},{"id":"16821","name":"JUMEAL","cp":"5260"},{"id":"16893","name":"JUNTA","cp":"5340"},{"id":"11001","name":"KILOMETRO 1006","cp":"5331"},{"id":"10737","name":"KILOMETRO 1008","cp":"5264"},{"id":"10738","name":"KILOMETRO 1017","cp":"5264"},{"id":"10633","name":"KILOMETRO 1093","cp":"4234"},{"id":"10577","name":"KILOMETRO 128","cp":"4728"},{"id":"10739","name":"KILOMETRO 38","cp":"5261"},{"id":"10740","name":"KILOMETRO 955","cp":"5260"},{"id":"10741","name":"KILOMETRO 969","cp":"5260"},{"id":"10869","name":"KILOMETRO 975","cp":"5321"},{"id":"10578","name":"KILOMETRO 99","cp":"5263"},{"id":"10742","name":"KILOMETRO 997","cp":"5260"},{"id":"11002","name":"KILOMETRO 999","cp":"5331"},{"id":"10601","name":"LA AGUADA","cp":"4700"},{"id":"10328","name":"LA AGUADA","cp":"4711"},{"id":"10948","name":"LA AGUADA","cp":"4723"},{"id":"10470","name":"LA AGUADA","cp":"4740"},{"id":"10521","name":"LA AGUADA","cp":"4751"},{"id":"10743","name":"LA AGUADA","cp":"5261"},{"id":"10870","name":"LA AGUADA GRANDE","cp":"5321"},{"id":"10398","name":"LA AGUADITA","cp":"4701"},{"id":"11003","name":"LA AGUADITA","cp":"5345"},{"id":"16758","name":"LA AGUITA","cp":"4715"},{"id":"10444","name":"LA ALUMBRERA","cp":"4743"},{"id":"10744","name":"LA ANTIGUA","cp":"5261"},{"id":"10831","name":"LA BAJADA","cp":"4716"},{"id":"10949","name":"LA BAJADA","cp":"4723"},{"id":"10832","name":"LA BANDA","cp":"4716"},{"id":"10471","name":"LA BANDA","cp":"4740"},{"id":"10522","name":"LA BANDA","cp":"4750"},{"id":"16801","name":"LA BARRANCA LARGA","cp":"4750"},{"id":"10399","name":"LA BARROSA","cp":"4701"},{"id":"10745","name":"LA BARROSA","cp":"5265"},{"id":"10400","name":"LA BEBIDA","cp":"4701"},{"id":"10602","name":"LA BREA","cp":"4700"},{"id":"10746","name":"LA BREA","cp":"5260"},{"id":"10747","name":"LA BUENA ESTRELLA","cp":"5260"},{"id":"10634","name":"LA CALERA","cp":"4234"},{"id":"10603","name":"LA CALERA","cp":"4700"},{"id":"10950","name":"LA CALERA","cp":"4723"},{"id":"10635","name":"LA CALERA DEL SAUCE","cp":"4235"},{"id":"16865","name":"LA CAMPANA","cp":"4139"},{"id":"16844","name":"LA CAMPANA","cp":"5260"},{"id":"10329","name":"LA CA\u00d1ADA","cp":"4715"},{"id":"10579","name":"LA CA\u00d1ADA","cp":"4726"},{"id":"10523","name":"LA CA\u00d1ADA","cp":"4751"},{"id":"10748","name":"LA CA\u00d1ADA","cp":"5261"},{"id":"11004","name":"LA CA\u00d1ADA LARGA","cp":"5341"},{"id":"11005","name":"LA CANDELARIA","cp":"5333"},{"id":"10524","name":"LA CAPELLANIA","cp":"4751"},{"id":"11006","name":"LA CAPELLANIA","cp":"5333"},{"id":"10674","name":"LA CARRERA","cp":"4711"},{"id":"10604","name":"LA CHACARITA","cp":"4700"},{"id":"10605","name":"LA CHACARITA DE LOS PADRES","cp":"4700"},{"id":"16894","name":"LA CHILCA","cp":"5340"},{"id":"10525","name":"LA CIENAGA","cp":"4751"},{"id":"11007","name":"LA CIENAGA","cp":"5341"},{"id":"11008","name":"LA CIENAGA DE LOS ZONDONES","cp":"5341"},{"id":"10749","name":"LA COLONIA","cp":"5261"},{"id":"10526","name":"LA COSTA","cp":"4750"},{"id":"10527","name":"LA CUESTA","cp":"4751"},{"id":"10750","name":"LA DORADA","cp":"5261"},{"id":"10833","name":"LA ESQUINA","cp":"4718"},{"id":"10636","name":"LA ESTANCIA","cp":"4235"},{"id":"10401","name":"LA ESTANCIA","cp":"4701"},{"id":"10528","name":"LA ESTANCIA","cp":"4751"},{"id":"10402","name":"LA ESTANCITA","cp":"4701"},{"id":"10637","name":"LA ESTANZUELA","cp":"4235"},{"id":"11061","name":"LA ESTRELLA","cp":"4724"},{"id":"10403","name":"LA FALDA","cp":"4701"},{"id":"10834","name":"LA FALDA","cp":"4718"},{"id":"10751","name":"LA FALDA","cp":"5265"},{"id":"11009","name":"LA FALDA","cp":"5341"},{"id":"10675","name":"LA FALDA DE SAN ANTONIO","cp":"4707"},{"id":"10752","name":"LA FLORIDA","cp":"5261"},{"id":"11010","name":"LA FLORIDA","cp":"5341"},{"id":"10753","name":"LA GRANJA","cp":"5264"},{"id":"10754","name":"LA GUARDIA","cp":"5263"},{"id":"10835","name":"LA HIGUERA","cp":"4719"},{"id":"10404","name":"LA HIGUERITA","cp":"4701"},{"id":"16940","name":"LA HIGUERITA","cp":"5261"},{"id":"10580","name":"LA HORQUETA","cp":"5263"},{"id":"10472","name":"LA HOYADA","cp":"4139"},{"id":"16866","name":"LA HOYADA","cp":"4139"},{"id":"16845","name":"LA HOYADA","cp":"5260"},{"id":"10638","name":"LA HUERTA","cp":"4235"},{"id":"10405","name":"LA HUERTA","cp":"5261"},{"id":"10755","name":"LA ISLA","cp":"5264"},{"id":"11011","name":"LA ISLA","cp":"5333"},{"id":"10473","name":"LA LAGUNA","cp":"4741"},{"id":"16867","name":"LA LOMA","cp":"4139"},{"id":"16846","name":"LA LOMA","cp":"5260"},{"id":"11012","name":"LA MAJADA","cp":"5341"},{"id":"10951","name":"LA MARAVILLA","cp":"5264"},{"id":"10836","name":"LA MERCED","cp":"4718"},{"id":"10406","name":"LA MESADA","cp":"4701"},{"id":"11013","name":"LA MESADA","cp":"5341"},{"id":"10756","name":"LA MONTOSA","cp":"5261"},{"id":"10916","name":"LA OLLADA","cp":"4139"},{"id":"10917","name":"LA OVEJERIA","cp":"4719"},{"id":"11014","name":"LA PALCA","cp":"5341"},{"id":"10757","name":"LA PARADA","cp":"5265"},{"id":"10581","name":"LA PARAGUAYA","cp":"4724"},{"id":"10407","name":"LA PE\u00d1A","cp":"5261"},{"id":"10758","name":"LA PE\u00d1A","cp":"5261"},{"id":"10330","name":"LA PIEDRA","cp":"4715"},{"id":"10331","name":"LA PUERTA","cp":"4711"},{"id":"10529","name":"LA PUERTA DE SAN JOSE","cp":"4751"},{"id":"10530","name":"LA PUNTILLA","cp":"4750"},{"id":"11015","name":"LA PUNTILLA","cp":"5331"},{"id":"11016","name":"LA PUNTILLA DE SAN JOSE","cp":"5341"},{"id":"10918","name":"LA QUEBRADA","cp":"4139"},{"id":"10639","name":"LA QUEBRADA","cp":"4234"},{"id":"10531","name":"LA QUEBRADA","cp":"4751"},{"id":"10759","name":"LA QUINTA","cp":"5261"},{"id":"10532","name":"LA RAMADA","cp":"4753"},{"id":"11017","name":"LA RAMADITA","cp":"5341"},{"id":"10760","name":"LA RENOVACION","cp":"4231"},{"id":"16781","name":"LA REPRESA","cp":"4750"},{"id":"16759","name":"LA SALVIA","cp":"4715"},{"id":"10919","name":"LA SOLEDAD","cp":"4139"},{"id":"10613","name":"LA TERCENA","cp":"4707"},{"id":"10408","name":"LA TIGRA","cp":"5261"},{"id":"10533","name":"LA TOMA","cp":"4751"},{"id":"16782","name":"LA TOTORA","cp":"4750"},{"id":"10761","name":"LA VALENTINA","cp":"5261"},{"id":"16874","name":"LA VICTORIA","cp":"4723"},{"id":"10837","name":"LA VI\u00d1A","cp":"4722"},{"id":"10534","name":"LA VI\u00d1A","cp":"4751"},{"id":"10838","name":"LA VI\u00d1A DE ABAJO","cp":"4722"},{"id":"10871","name":"LA YEGUA MUERTA","cp":"5321"},{"id":"10762","name":"LA ZANJA","cp":"5261"},{"id":"10535","name":"LAGUNA BLANCA","cp":"4751"},{"id":"10536","name":"LAGUNA COLORADA","cp":"4751"},{"id":"16822","name":"LAGUNITA","cp":"5260"},{"id":"16823","name":"LAJA","cp":"5260"},{"id":"10582","name":"LAMPASILLO","cp":"4726"},{"id":"27640","name":"LAMPASITO","cp":"4139"},{"id":"16760","name":"LAMPASO","cp":"4715"},{"id":"10332","name":"LAS AGUITAS","cp":"4715"},{"id":"10409","name":"LAS BARRANCAS","cp":"4701"},{"id":"10814","name":"LAS BARRANCAS","cp":"4751"},{"id":"10410","name":"LAS BARRANCAS CASA ARMADA","cp":"4701"},{"id":"16761","name":"LAS BARRAS","cp":"4715"},{"id":"10537","name":"LAS BAYAS","cp":"4753"},{"id":"10872","name":"LAS BREAS","cp":"5321"},{"id":"10333","name":"LAS BURRAS","cp":"4715"},{"id":"10952","name":"LAS CA\u00d1AS","cp":"4235"},{"id":"10873","name":"LAS CASITAS","cp":"5315"},{"id":"10953","name":"LAS CAYAS","cp":"4723"},{"id":"10411","name":"LAS CHACRAS","cp":"4701"},{"id":"11018","name":"LAS CHACRAS","cp":"5331"},{"id":"10334","name":"LAS CHACRITAS","cp":"4711"},{"id":"10874","name":"LAS CIENAGAS","cp":"5315"},{"id":"10763","name":"LAS CORTADERAS","cp":"5261"},{"id":"16812","name":"LAS CORTADERITAS","cp":"5260"},{"id":"10335","name":"LAS CUCHILLAS","cp":"4715"},{"id":"10412","name":"LAS CUCHILLAS","cp":"5261"},{"id":"10413","name":"LAS CUCHILLAS DEL AYBAL","cp":"5265"},{"id":"10538","name":"LAS CUEVAS","cp":"4751"},{"id":"11062","name":"LAS ESQUINAS","cp":"4707"},{"id":"10474","name":"LAS ESTANCIAS","cp":"4743"},{"id":"10764","name":"LAS FLORES","cp":"5261"},{"id":"11019","name":"LAS HIGUERITAS","cp":"5340"},{"id":"10839","name":"LAS HUERTAS","cp":"4722"},{"id":"10765","name":"LAS IGUANAS","cp":"4231"},{"id":"10336","name":"LAS JUNTAS","cp":"4715"},{"id":"10539","name":"LAS JUNTAS","cp":"4751"},{"id":"10640","name":"LAS JUSTAS","cp":"4235"},{"id":"10337","name":"LAS LAJAS","cp":"4715"},{"id":"10840","name":"LAS LAJAS","cp":"4719"},{"id":"16859","name":"LAS LATILLAS","cp":"4728"},{"id":"16806","name":"LAS LATILLAS","cp":"4750"},{"id":"10641","name":"LAS LOMITAS","cp":"4234"},{"id":"10954","name":"LAS LOMITAS","cp":"4235"},{"id":"10766","name":"LAS LOMITAS","cp":"5261"},{"id":"16895","name":"LAS LOSAS","cp":"5340"},{"id":"10540","name":"LAS MANZAS","cp":"4751"},{"id":"10815","name":"LAS MINAS","cp":"4740"},{"id":"10920","name":"LAS MOJARRAS","cp":"4139"},{"id":"10583","name":"LAS PALMAS","cp":"4726"},{"id":"10767","name":"LAS PALMITAS","cp":"4231"},{"id":"10768","name":"LAS PALOMAS","cp":"5261"},{"id":"10955","name":"LAS PAMPAS","cp":"4235"},{"id":"11020","name":"LAS PAMPAS","cp":"5341"},{"id":"10338","name":"LAS PAMPITAS","cp":"4711"},{"id":"10475","name":"LAS PAMPITAS","cp":"4743"},{"id":"11021","name":"LAS PAPAS","cp":"5341"},{"id":"16896","name":"LAS PELADAS","cp":"5340"},{"id":"10769","name":"LAS PE\u00d1AS","cp":"5263"},{"id":"10339","name":"LAS PIEDRAS BLANCAS","cp":"4715"},{"id":"16824","name":"LAS PUERTAS","cp":"5260"},{"id":"11022","name":"LAS RETAMAS","cp":"5345"},{"id":"10642","name":"LAS TAPIAS","cp":"4235"},{"id":"10414","name":"LAS TAPIAS","cp":"4701"},{"id":"10770","name":"LAS TEJAS","cp":"4231"},{"id":"11063","name":"LAS TEJAS DE VALLE VIEJO","cp":"4700"},{"id":"10771","name":"LAS TOSCAS","cp":"5265"},{"id":"10643","name":"LAS TRANCAS","cp":"4235"},{"id":"10841","name":"LAS TRANQUITAS","cp":"4722"},{"id":"10644","name":"LAS TRILLAS","cp":"4235"},{"id":"10415","name":"LAS TUNAS","cp":"4701"},{"id":"10956","name":"LAS TUNAS","cp":"4723"},{"id":"10606","name":"LAS VARITAS","cp":"4700"},{"id":"16825","name":"LAS ZANJAS","cp":"5260"},{"id":"10980","name":"LAVALLE","cp":"5343"},{"id":"10607","name":"LAZARETO","cp":"4700"},{"id":"16826","name":"LIEBRE","cp":"5260"},{"id":"10645","name":"LINDERO","cp":"4235"},{"id":"10541","name":"LOCONTE","cp":"4751"},{"id":"10608","name":"LOMA CORTADA","cp":"4700"},{"id":"16897","name":"LOMA GRANDE","cp":"5340"},{"id":"10416","name":"LOMA SOLA","cp":"4701"},{"id":"10542","name":"LONDRES","cp":"4753"},{"id":"10543","name":"LONDRES ESTE","cp":"4750"},{"id":"10544","name":"LONDRES OESTE","cp":"4753"},{"id":"16783","name":"LORO HUASI","cp":"4139"},{"id":"27639","name":"LORO HUASI","cp":"4139"},{"id":"11023","name":"LORO HUASI","cp":"5340"},{"id":"10772","name":"LOS ALAMOS","cp":"4235"},{"id":"10957","name":"LOS ALTOS","cp":"4723"},{"id":"10584","name":"LOS ANGELES","cp":"4724"},{"id":"10875","name":"LOS BALDES","cp":"5315"},{"id":"11024","name":"LOS BALVERDIS","cp":"5331"},{"id":"10958","name":"LOS BASTIDORES","cp":"4723"},{"id":"10585","name":"LOS BAZAN","cp":"4724"},{"id":"10417","name":"LOS BULACIO","cp":"4701"},{"id":"10773","name":"LOS CADILLOS","cp":"5261"},{"id":"10876","name":"LOS CAJONES","cp":"5317"},{"id":"10340","name":"LOS CASTILLOS","cp":"4711"},{"id":"16813","name":"LOS CAUDILLOS","cp":"5260"},{"id":"16898","name":"LOS CHANAMPA","cp":"5340"},{"id":"16827","name":"LOS CHA\u00d1ARES","cp":"5260"},{"id":"10567","name":"LOS CHA\u00d1ARITOS","cp":"4726"},{"id":"10646","name":"LOS CISTERNAS","cp":"4701"},{"id":"10545","name":"LOS COLORADOS","cp":"4753"},{"id":"10774","name":"LOS CORDOBESES","cp":"4231"},{"id":"10775","name":"LOS CORRALES","cp":"4235"},{"id":"10959","name":"LOS ESTANTES","cp":"4723"},{"id":"10842","name":"LOS GALPONES","cp":"4718"},{"id":"11025","name":"LOS GONZALES","cp":"5331"},{"id":"11026","name":"LOS GUAYTIMAS","cp":"5340"},{"id":"10341","name":"LOS GUINDOS","cp":"4711"},{"id":"10418","name":"LOS HUAYCOS","cp":"4701"},{"id":"10342","name":"LOS LOROS","cp":"4715"},{"id":"10419","name":"LOS MOGOTES","cp":"5261"},{"id":"10343","name":"LOS MOLLES","cp":"4715"},{"id":"10960","name":"LOS MOLLES","cp":"4723"},{"id":"10420","name":"LOS MOLLES","cp":"5261"},{"id":"10546","name":"LOS MORTERITOS","cp":"4711"},{"id":"10647","name":"LOS MORTEROS","cp":"4234"},{"id":"10421","name":"LOS MORTEROS","cp":"4701"},{"id":"11027","name":"LOS MORTEROS","cp":"5345"},{"id":"10547","name":"LOS NACIMIENTOS","cp":"4751"},{"id":"10344","name":"LOS NARVAEZ","cp":"4711"},{"id":"10345","name":"LOS NAVARROS","cp":"4711"},{"id":"10776","name":"LOS NOGALES","cp":"4235"},{"id":"10648","name":"LOS ORTICES","cp":"4235"},{"id":"10961","name":"LOS ORTICES","cp":"4723"},{"id":"10843","name":"LOS OVEJEROS","cp":"4722"},{"id":"11028","name":"LOS PALACIOS","cp":"5340"},{"id":"10649","name":"LOS PEDRAZAS","cp":"4235"},{"id":"10586","name":"LOS PINOS","cp":"4724"},{"id":"10844","name":"LOS PINTADOS","cp":"4722"},{"id":"10422","name":"LOS PIQUILLINES","cp":"4701"},{"id":"10962","name":"LOS POCITOS","cp":"4723"},{"id":"10777","name":"LOS POCITOS","cp":"5261"},{"id":"11029","name":"LOS POTRERILLOS","cp":"5341"},{"id":"10921","name":"LOS POZUELOS","cp":"4139"},{"id":"10548","name":"LOS POZUELOS","cp":"4751"},{"id":"10587","name":"LOS PUESTOS","cp":"4724"},{"id":"10346","name":"LOS PUESTOS","cp":"5319"},{"id":"11030","name":"LOS QUINTEROS","cp":"5331"},{"id":"10476","name":"LOS RASTROJOS","cp":"4701"},{"id":"11031","name":"LOS RINCONES","cp":"5331"},{"id":"11032","name":"LOS ROBLEDOS","cp":"5340"},{"id":"10922","name":"LOS SALTOS","cp":"4139"},{"id":"10347","name":"LOS TALAS","cp":"4711"},{"id":"10963","name":"LOS TRONCOS","cp":"4723"},{"id":"11033","name":"LOS VALDEZ","cp":"5340"},{"id":"16899","name":"LOS VALVEROS","cp":"5340"},{"id":"10348","name":"LOS VARELA","cp":"4711"},{"id":"10964","name":"LOS ZANJONES","cp":"4723"},{"id":"16784","name":"LUNA AGUADA","cp":"4750"},{"id":"10423","name":"MAJADA","cp":"5265"},{"id":"10877","name":"MALCASCO","cp":"5315"},{"id":"10477","name":"MALLI 1","cp":"4740"},{"id":"10478","name":"MALLI 2","cp":"4740"},{"id":"10965","name":"MANANTIALES","cp":"4723"},{"id":"10778","name":"MARIA DORA","cp":"5264"},{"id":"10779","name":"MARIA ELENA","cp":"5261"},{"id":"16900","name":"MATAMBRE","cp":"5340"},{"id":"10923","name":"MEDANITO","cp":"4139"},{"id":"11034","name":"MEDANITOS","cp":"5341"},{"id":"16901","name":"MEDANO","cp":"5340"},{"id":"11035","name":"MESADA DE LOS ZARATE","cp":"5341"},{"id":"11036","name":"MESADA GRANDE","cp":"5341"},{"id":"10650","name":"MINA DAL","cp":"4235"},{"id":"10485","name":"MINA INCA HUASI","cp":"4705"},{"id":"10549","name":"MINAS AGUA TAPADA","cp":"4751"},{"id":"27636","name":"MINAS CAPILLITAS","cp":"4740"},{"id":"10588","name":"MIRAFLORES","cp":"4724"},{"id":"10878","name":"MISCHANGO","cp":"5315"},{"id":"10966","name":"MISTOL ANCHO","cp":"4723"},{"id":"10349","name":"MOLLE QUEMADO","cp":"4715"},{"id":"10479","name":"MOLLECITO","cp":"5319"},{"id":"16828","name":"MOLLEGASTA","cp":"5260"},{"id":"10845","name":"MONTE POTRERO","cp":"4716"},{"id":"10967","name":"MONTE REDONDO","cp":"4723"},{"id":"11064","name":"MOTA BOTELLO","cp":"4705"},{"id":"10780","name":"MOTEGASTA","cp":"5261"},{"id":"10879","name":"MUTQUIN","cp":"5317"},{"id":"16802","name":"NACIMIENTO","cp":"4750"},{"id":"16803","name":"NACIMIENTOS DE ABAJO","cp":"4750"},{"id":"10550","name":"NACIMIENTOS DE ARRIBA","cp":"4751"},{"id":"10551","name":"NACIMIENTOS DE SAN ANTONIO","cp":"4751"},{"id":"10552","name":"NACIMIENTOS DEL BOLSON","cp":"4751"},{"id":"16875","name":"NAIPA","cp":"4723"},{"id":"10424","name":"NAVAGUIN","cp":"5261"},{"id":"16814","name":"NAVIGAN","cp":"5260"},{"id":"16902","name":"NEGRO MUERTO","cp":"5340"},{"id":"10651","name":"NOGALITO","cp":"4235"},{"id":"10676","name":"OCHO VADOS","cp":"4713"},{"id":"10425","name":"OJO DE AGUA","cp":"4701"},{"id":"16941","name":"OJO DE AGUA","cp":"4750"},{"id":"16903","name":"OJO DE AGUA","cp":"5340"},{"id":"16785","name":"OJO DE LA CORTADERA","cp":"4750"},{"id":"16861","name":"OLLITA","cp":"5260"},{"id":"16829","name":"OLMOS","cp":"5260"},{"id":"10781","name":"OLTA","cp":"5261"},{"id":"10652","name":"ORELLANO","cp":"4235"},{"id":"10968","name":"OVANTA","cp":"4723"},{"id":"10924","name":"OVEJERIA","cp":"4139"},{"id":"10653","name":"OYOLA","cp":"4235"},{"id":"10925","name":"PAJANGUILLO","cp":"4139"},{"id":"16904","name":"PALACIOS","cp":"5340"},{"id":"16786","name":"PALO BLANCO","cp":"4750"},{"id":"11037","name":"PALO BLANCO","cp":"5341"},{"id":"10782","name":"PALO CRUZ","cp":"5261"},{"id":"10846","name":"PALO LABRADO","cp":"4716"},{"id":"10783","name":"PALO PARADO","cp":"4231"},{"id":"16868","name":"PALO SECO","cp":"4139"},{"id":"16847","name":"PALO SECO","cp":"5260"},{"id":"10926","name":"PALOMA YACO","cp":"4139"},{"id":"16933","name":"PAMPA","cp":"4707"},{"id":"11038","name":"PAMPA BLANCA","cp":"5341"},{"id":"10969","name":"PAMPA CHACRA","cp":"4723"},{"id":"16787","name":"PAMPA CIENAGA","cp":"4750"},{"id":"16830","name":"PAMPA POZO","cp":"5260"},{"id":"16905","name":"PAN DE AZUCAR","cp":"5340"},{"id":"16906","name":"PANTANOS","cp":"5340"},{"id":"10553","name":"PAPA CHACRA","cp":"4751"},{"id":"10784","name":"PARADA KILOMETRO 62","cp":"5263"},{"id":"16839","name":"PARAJE LOS CHA\u00d1ARITOS","cp":"5260"},{"id":"11039","name":"PASO SAN FRANCISCO","cp":"5341"},{"id":"16907","name":"PASTOS AMARILLOS","cp":"5340"},{"id":"16808","name":"PAYABUAYCA","cp":"4700"},{"id":"10426","name":"PE\u00d1AFLOR","cp":"4701"},{"id":"11040","name":"PE\u00d1AS BLANCAS","cp":"5331"},{"id":"16810","name":"PE\u00d1ON","cp":"4700"},{"id":"10927","name":"PIE DEL MEDANO","cp":"4139"},{"id":"10554","name":"PIEDRA LARGA","cp":"4753"},{"id":"10480","name":"PILCIAO","cp":"4740"},{"id":"16908","name":"PILLAHUASI","cp":"5340"},{"id":"16909","name":"PLANCHADA","cp":"5340"},{"id":"11041","name":"PLAZA DE SAN PEDRO","cp":"5341"},{"id":"16831","name":"PLUMERO","cp":"5260"},{"id":"16910","name":"POCITOS","cp":"5340"},{"id":"11065","name":"POLCOS","cp":"4707"},{"id":"10880","name":"POMAN","cp":"5315"},{"id":"10678","name":"POMANCILLO","cp":"4711"},{"id":"11066","name":"PORTEZUELO","cp":"4716"},{"id":"10785","name":"PORTILLO CHICO","cp":"5261"},{"id":"16853","name":"POSTA","cp":"4718"},{"id":"16788","name":"POTRERITO","cp":"4750"},{"id":"10427","name":"POTRERO","cp":"4701"},{"id":"10786","name":"POZANCONES","cp":"5260"},{"id":"10555","name":"POZO DE PIEDRA","cp":"4751"},{"id":"10847","name":"POZO DEL ALGARROBO","cp":"4723"},{"id":"10848","name":"POZO DEL CAMPO","cp":"4723"},{"id":"11067","name":"POZO DEL MISTOL","cp":"4705"},{"id":"10654","name":"POZO GRANDE","cp":"4234"},{"id":"10787","name":"POZOS CAVADOS","cp":"5266"},{"id":"16804","name":"POZUELOS","cp":"4750"},{"id":"16832","name":"PTO ESPINAL","cp":"5260"},{"id":"10655","name":"PUEBLITO","cp":"4235"},{"id":"27735","name":"PUERTA DE CORRAL QUEMADO","cp":"4751"},{"id":"10970","name":"PUERTA GRANDE","cp":"4723"},{"id":"16858","name":"PUERTO BLANCO","cp":"4750"},{"id":"16790","name":"PUERTO CHIPI","cp":"4750"},{"id":"16791","name":"PUERTO DE LA PAMPA","cp":"4750"},{"id":"16789","name":"PUERTO POTRERO","cp":"4750"},{"id":"10788","name":"PUESTO DE FADEL O DE LOBO","cp":"5260"},{"id":"10971","name":"PUESTO DE LA VIUDA","cp":"4237"},{"id":"10789","name":"PUESTO DE LOS MORALES","cp":"4231"},{"id":"10790","name":"PUESTO DE VERA","cp":"5265"},{"id":"10972","name":"PUESTO DEL MEDIO","cp":"4723"},{"id":"10656","name":"PUESTO LOS GOMEZ","cp":"4235"},{"id":"10791","name":"PUESTO SABATTE","cp":"5261"},{"id":"27654","name":"PUNTA DE AGUA","cp":"5345"},{"id":"10928","name":"PUNTA DE BALASTO","cp":"4139"},{"id":"16833","name":"PUNTA DEL POZO","cp":"5260"},{"id":"10973","name":"QUEBRACHAL","cp":"4723"},{"id":"10428","name":"QUEBRACHO","cp":"4701"},{"id":"10974","name":"QUEBRACHOS BLANCOS","cp":"4723"},{"id":"16911","name":"QUEBRADA HONDA","cp":"5340"},{"id":"16912","name":"QUEMADITA","cp":"5340"},{"id":"16913","name":"QUEMADO","cp":"5340"},{"id":"10975","name":"QUIMILPA","cp":"4723"},{"id":"16914","name":"QUIQUERO","cp":"5340"},{"id":"10792","name":"QUIROS","cp":"5266"},{"id":"16915","name":"QUSTO","cp":"5340"},{"id":"10849","name":"RAFAEL CASTILLO","cp":"4716"},{"id":"10793","name":"RAMBLONES","cp":"5261"},{"id":"10794","name":"RECREO","cp":"5260"},{"id":"10976","name":"RETIRO","cp":"5317"},{"id":"10881","name":"RETIRO DE COLANA","cp":"5317"},{"id":"10882","name":"RINCON","cp":"5317"},{"id":"16792","name":"RINCON GRANDE","cp":"4750"},{"id":"16916","name":"RIO ABAJO","cp":"5340"},{"id":"10795","name":"RIO CHICO","cp":"5265"},{"id":"11042","name":"RIO COLORADO","cp":"5331"},{"id":"10657","name":"RIO DE AVILA","cp":"4235"},{"id":"10796","name":"RIO DE BAZANES","cp":"5261"},{"id":"10797","name":"RIO DE DON DIEGO","cp":"5261"},{"id":"10798","name":"RIO DE LA DORADA","cp":"5261"},{"id":"10658","name":"RIO DE LA PLATA","cp":"4235"},{"id":"16917","name":"RIO DE LOS INDIOS","cp":"5340"},{"id":"10609","name":"RIO DEL TALA","cp":"4700"},{"id":"11043","name":"RIO GRANDE","cp":"5341"},{"id":"10429","name":"RIO LOS MOLINOS","cp":"4701"},{"id":"16918","name":"RODEO","cp":"5340"},{"id":"10556","name":"RODEO GERVAN","cp":"4751"},{"id":"10482","name":"RODEO GRANDE","cp":"4740"},{"id":"10883","name":"ROSARIO DE COLANA","cp":"5317"},{"id":"16769","name":"ROSARIO DEL SUMALAO","cp":"4705"},{"id":"11068","name":"ROSARIO DEL SUMALAO","cp":"4707"},{"id":"16793","name":"RUMIMONION","cp":"4750"},{"id":"11044","name":"SALADO","cp":"5331"},{"id":"10977","name":"SALAUCA","cp":"4723"},{"id":"10850","name":"SALCEDO","cp":"4716"},{"id":"10430","name":"SAN ANTONIO","cp":"4701"},{"id":"16794","name":"SAN ANTONIO","cp":"4750"},{"id":"10799","name":"SAN ANTONIO","cp":"5264"},{"id":"10800","name":"SAN ANTONIO DE LA PAZ","cp":"5264"},{"id":"10679","name":"SAN ANTONIO DE P BLANCA","cp":"4707"},{"id":"10851","name":"SAN ANTONIO DE PACLIN","cp":"4719"},{"id":"10929","name":"SAN ANTONIO DEL CAJON","cp":"4139"},{"id":"10680","name":"SAN ANTONIO FRAY M ESQUIU","cp":"4707"},{"id":"10801","name":"SAN ANTONIO VIEJO","cp":"5264"},{"id":"16795","name":"SAN BUENAVENTURA","cp":"4750"},{"id":"11045","name":"SAN BUENAVENTURA","cp":"5340"},{"id":"10598","name":"SAN FDO DEL VALLE DE CATAMARCA","cp":"4700"},{"id":"10557","name":"SAN FERNANDO","cp":"4751"},{"id":"10802","name":"SAN FRANCISCO","cp":"5265"},{"id":"10589","name":"SAN GERONIMO","cp":"4728"},{"id":"11069","name":"SAN ISIDRO","cp":"4707"},{"id":"10659","name":"SAN JERONIMO","cp":"4235"},{"id":"16599","name":"SAN JOSE","cp":"4139"},{"id":"10431","name":"SAN JOSE","cp":"4701"},{"id":"10803","name":"SAN JOSE","cp":"5319"},{"id":"16869","name":"SAN JOSE BANDA","cp":"4139"},{"id":"10677","name":"SAN JOSE DE PIEDRA BLANCA","cp":"4709"},{"id":"11046","name":"SAN JOSE DE TINOGASTA","cp":"5341"},{"id":"10930","name":"SAN JOSE NORTE","cp":"4139"},{"id":"10590","name":"SAN LORENZO","cp":"4724"},{"id":"10804","name":"SAN LORENZO","cp":"5261"},{"id":"10978","name":"SAN LUIS","cp":"4723"},{"id":"10805","name":"SAN MANUEL","cp":"5264"},{"id":"10432","name":"SAN MARTIN","cp":"4234"},{"id":"10591","name":"SAN MARTIN","cp":"5263"},{"id":"10806","name":"SAN MIGUEL","cp":"5261"},{"id":"10884","name":"SAN MIGUEL","cp":"5321"},{"id":"10807","name":"SAN NICOLAS","cp":"5261"},{"id":"10592","name":"SAN PABLO","cp":"4726"},{"id":"27736","name":"SAN PEDRO","cp":"4723"},{"id":"10593","name":"SAN PEDRO CAPAYAN","cp":"4726"},{"id":"10808","name":"SAN RAFAEL","cp":"5260"},{"id":"16848","name":"SAN ROQUE","cp":"5260"},{"id":"10660","name":"SAN VICENTE","cp":"4235"},{"id":"16834","name":"SANCHO","cp":"5260"},{"id":"10852","name":"SANTA ANA","cp":"4718"},{"id":"10853","name":"SANTA BARBARA","cp":"4718"},{"id":"11070","name":"SANTA CRUZ","cp":"4705"},{"id":"11047","name":"SANTA CRUZ","cp":"5331"},{"id":"10433","name":"SANTA GERTRUDIS","cp":"4701"},{"id":"10809","name":"SANTA LUCIA","cp":"5260"},{"id":"10931","name":"SANTA MARIA","cp":"4139"},{"id":"11071","name":"SANTA ROSA","cp":"4707"},{"id":"11048","name":"SANTA ROSA","cp":"5343"},{"id":"10810","name":"SANTO DOMINGO","cp":"5260"},{"id":"11049","name":"SANTO TOMAS","cp":"5341"},{"id":"16876","name":"SANTOS LUGARES","cp":"4723"},{"id":"16809","name":"SAUCE","cp":"4700"},{"id":"10434","name":"SAUCE DE LOS CEJAS","cp":"5265"},{"id":"10661","name":"SAUCE HUACHO","cp":"4235"},{"id":"10435","name":"SAUCE HUACHO","cp":"4701"},{"id":"10854","name":"SAUCE MAYO","cp":"4722"},{"id":"10885","name":"SAUJIL","cp":"5321"},{"id":"11050","name":"SAUJIL DE TINOGASTA","cp":"5341"},{"id":"16934","name":"SEBILA","cp":"4707"},{"id":"16860","name":"SEBILA","cp":"4728"},{"id":"16807","name":"SEBILA","cp":"4750"},{"id":"16796","name":"SHINCAL","cp":"4750"},{"id":"10811","name":"SICHA","cp":"5265"},{"id":"10682","name":"SIERRA BRAVA","cp":"4711"},{"id":"10886","name":"SIJAN","cp":"5319"},{"id":"10350","name":"SINGUIL","cp":"4711"},{"id":"10594","name":"SISIGUASI","cp":"4724"},{"id":"10662","name":"SOLEDAD","cp":"4701"},{"id":"10663","name":"SUCUMA","cp":"4235"},{"id":"11072","name":"SUMALAO","cp":"4705"},{"id":"10855","name":"SUMAMPA","cp":"4722"},{"id":"16919","name":"SUNCHO","cp":"5340"},{"id":"10856","name":"SUPERI","cp":"4718"},{"id":"10664","name":"SURUIPIANA","cp":"4235"},{"id":"16770","name":"TACAHUASI","cp":"4705"},{"id":"10436","name":"TACANA","cp":"4701"},{"id":"10437","name":"TACO DE ABAJO","cp":"4701"},{"id":"10812","name":"TACOPAMPA","cp":"5261"},{"id":"16835","name":"TAJAMARES","cp":"5260"},{"id":"16935","name":"TALA","cp":"4707"},{"id":"16920","name":"TALA ZAPATA","cp":"5340"},{"id":"10857","name":"TALAGUADA","cp":"4718"},{"id":"10558","name":"TALAMAYO","cp":"4750"},{"id":"16921","name":"TALAR","cp":"5265"},{"id":"10666","name":"TALEGA","cp":"4235"},{"id":"16922","name":"TALITA","cp":"5340"},{"id":"16923","name":"TAMBERIA","cp":"5340"},{"id":"16924","name":"TAMBU","cp":"5340"},{"id":"10667","name":"TAPSO","cp":"4234"},{"id":"11051","name":"TATON","cp":"5341"},{"id":"10595","name":"TELARITOS","cp":"5263"},{"id":"10858","name":"TIERRA VERDE","cp":"4719"},{"id":"16836","name":"TINAJERA","cp":"5260"},{"id":"11052","name":"TINOGASTA","cp":"5340"},{"id":"10668","name":"TINTIGASTA","cp":"4235"},{"id":"16936","name":"TIORCO","cp":"4707"},{"id":"16771","name":"TORO MUERTO","cp":"4705"},{"id":"10932","name":"TOROYACO","cp":"4139"},{"id":"16925","name":"TOTORA","cp":"5340"},{"id":"10438","name":"TOTORAL","cp":"4701"},{"id":"10933","name":"TOTORILLA","cp":"4139"},{"id":"10596","name":"TRAMPASACHA","cp":"4728"},{"id":"11073","name":"TRES PUENTES","cp":"4707"},{"id":"16926","name":"TROYA","cp":"5340"},{"id":"10813","name":"TULA","cp":"5264"},{"id":"10887","name":"TUSCUMAYO","cp":"5315"},{"id":"16927","name":"VALLECITO","cp":"5340"},{"id":"16928","name":"VEGA","cp":"5340"},{"id":"16772","name":"VEGA CURUTU","cp":"4705"},{"id":"16773","name":"VEGA TAMBERIA","cp":"4705"},{"id":"10560","name":"VICU\u00d1A PAMPA","cp":"4751"},{"id":"10669","name":"VILISMAN","cp":"4235"},{"id":"10859","name":"VILLA COLLANTES","cp":"4719"},{"id":"10483","name":"VILLA CORONEL ARROYO","cp":"4741"},{"id":"10611","name":"VILLA CUBAS","cp":"4700"},{"id":"11074","name":"VILLA DOLORES","cp":"4707"},{"id":"10683","name":"VILLA LAS PIRQUITAS","cp":"4713"},{"id":"11075","name":"VILLA MACEDO","cp":"4707"},{"id":"16837","name":"VILLA OFELIA","cp":"5260"},{"id":"10612","name":"VILLA PARQUE CHACABUCO","cp":"4700"},{"id":"10351","name":"VILLA QUINTIN AHUMADA","cp":"4715"},{"id":"11053","name":"VILLA SAN ROQUE","cp":"5343"},{"id":"11054","name":"VILLA SELEME","cp":"5331"},{"id":"16838","name":"VILLA SOTOMAYOR","cp":"5260"},{"id":"10559","name":"VILLA VIL","cp":"4751"},{"id":"11055","name":"VI\u00d1A DEL CERRO","cp":"5333"},{"id":"16929","name":"VINQUIS","cp":"5340"},{"id":"16797","name":"VISCOTE","cp":"4750"},{"id":"16930","name":"YACOCHUYO","cp":"5340"},{"id":"16870","name":"YAPES","cp":"4139"},{"id":"16849","name":"YAPES","cp":"5260"},{"id":"10979","name":"YAQUICHO","cp":"4723"},{"id":"10439","name":"YERBA BUENA","cp":"5265"},{"id":"10860","name":"YOCAN","cp":"4716"},{"id":"16937","name":"ZANJA","cp":"4707"},{"id":"16798","name":"ZARCITO","cp":"4750"},{"id":"16799","name":"ZARZA","cp":"4750"}]}
+{
+  "iso_31662": "AR-K",
+  "province": "Catamarca",
+  "localities": [
+    {
+      "id": "10614",
+      "name": "ACHALCO",
+      "cp": "4234"
+    },
+    {
+      "id": "16815",
+      "name": "ACHERAL",
+      "cp": "5260"
+    },
+    {
+      "id": "10440",
+      "name": "ACONQUIJA",
+      "cp": "4743"
+    },
+    {
+      "id": "10352",
+      "name": "ACOSTILLA",
+      "cp": "4701"
+    },
+    {
+      "id": "10561",
+      "name": "ADOLFO E CARRANZA",
+      "cp": "5263"
+    },
+    {
+      "id": "10888",
+      "name": "AGUA AMARILLA LA HOYADA",
+      "cp": "4139"
+    },
+    {
+      "id": "10889",
+      "name": "AGUA AMARILLA PTA DE BALASTO",
+      "cp": "4139"
+    },
+    {
+      "id": "11056",
+      "name": "AGUA COLORADA",
+      "cp": "4724"
+    },
+    {
+      "id": "10487",
+      "name": "AGUA COLORADA",
+      "cp": "4750"
+    },
+    {
+      "id": "10488",
+      "name": "AGUA DE DIONISIO",
+      "cp": "4751"
+    },
+    {
+      "id": "10441",
+      "name": "AGUA DE LAS PALOMAS",
+      "cp": "4741"
+    },
+    {
+      "id": "16774",
+      "name": "AGUA DEL CAMPO",
+      "cp": "4750"
+    },
+    {
+      "id": "10353",
+      "name": "AGUA DEL SIMBOL",
+      "cp": "5261"
+    },
+    {
+      "id": "16816",
+      "name": "AGUA ESCONDIDA",
+      "cp": "5260"
+    },
+    {
+      "id": "16877",
+      "name": "AGUA GRANDE",
+      "cp": "5340"
+    },
+    {
+      "id": "10354",
+      "name": "AGUA LOS MATOS",
+      "cp": "5265"
+    },
+    {
+      "id": "16762",
+      "name": "AGUA SALADA",
+      "cp": "4740"
+    },
+    {
+      "id": "16604",
+      "name": "AGUA VERDE",
+      "cp": "4715"
+    },
+    {
+      "id": "10442",
+      "name": "AGUA VERDE",
+      "cp": "4740"
+    },
+    {
+      "id": "16878",
+      "name": "AGUADA",
+      "cp": "5340"
+    },
+    {
+      "id": "16765",
+      "name": "AGUADITA",
+      "cp": "4705"
+    },
+    {
+      "id": "10489",
+      "name": "AGUAS CALIENTES",
+      "cp": "4751"
+    },
+    {
+      "id": "10615",
+      "name": "ALBIGASTA",
+      "cp": "4231"
+    },
+    {
+      "id": "10684",
+      "name": "ALBIGASTA",
+      "cp": "4235"
+    },
+    {
+      "id": "16763",
+      "name": "ALGARROBAL",
+      "cp": "4740"
+    },
+    {
+      "id": "10934",
+      "name": "ALIJILAN",
+      "cp": "4723"
+    },
+    {
+      "id": "10935",
+      "name": "ALMIGAUCHO",
+      "cp": "4723"
+    },
+    {
+      "id": "10936",
+      "name": "ALTA GRACIA",
+      "cp": "4723"
+    },
+    {
+      "id": "10685",
+      "name": "ALTO BELLO",
+      "cp": "5261"
+    },
+    {
+      "id": "10443",
+      "name": "ALTO DE LA JUNTA",
+      "cp": "4743"
+    },
+    {
+      "id": "10355",
+      "name": "ALTO DEL ROSARIO",
+      "cp": "5261"
+    },
+    {
+      "id": "10490",
+      "name": "ALTO EL BOLSON",
+      "cp": "4751"
+    },
+    {
+      "id": "10816",
+      "name": "AMADORES",
+      "cp": "4716"
+    },
+    {
+      "id": "10356",
+      "name": "AMANA",
+      "cp": "4701"
+    },
+    {
+      "id": "10445",
+      "name": "AMANAO",
+      "cp": "4741"
+    },
+    {
+      "id": "10937",
+      "name": "AMANCALA",
+      "cp": "4723"
+    },
+    {
+      "id": "10305",
+      "name": "AMBATO",
+      "cp": "4711"
+    },
+    {
+      "id": "10890",
+      "name": "AMPAJANGO",
+      "cp": "4139"
+    },
+    {
+      "id": "10938",
+      "name": "AMPOLLA",
+      "cp": "4723"
+    },
+    {
+      "id": "10491",
+      "name": "AMPUJACO",
+      "cp": "4750"
+    },
+    {
+      "id": "10357",
+      "name": "ANCASTI",
+      "cp": "4701"
+    },
+    {
+      "id": "10686",
+      "name": "ANCASTILLO",
+      "cp": "4231"
+    },
+    {
+      "id": "16879",
+      "name": "ANCHOCA",
+      "cp": "5340"
+    },
+    {
+      "id": "10446",
+      "name": "ANDALGALA",
+      "cp": "4740"
+    },
+    {
+      "id": "10891",
+      "name": "ANDALHUALA",
+      "cp": "4139"
+    },
+    {
+      "id": "10981",
+      "name": "ANDALUCIA",
+      "cp": "5331"
+    },
+    {
+      "id": "10687",
+      "name": "ANGELINA",
+      "cp": "5264"
+    },
+    {
+      "id": "16775",
+      "name": "ANGOSTURA",
+      "cp": "4750"
+    },
+    {
+      "id": "10982",
+      "name": "ANILLACO",
+      "cp": "5341"
+    },
+    {
+      "id": "10688",
+      "name": "ANJULI",
+      "cp": "4231"
+    },
+    {
+      "id": "10358",
+      "name": "ANQUINCILA",
+      "cp": "4701"
+    },
+    {
+      "id": "11057",
+      "name": "ANTAPOCA",
+      "cp": "4705"
+    },
+    {
+      "id": "27617",
+      "name": "ANTINACO",
+      "cp": "5341"
+    },
+    {
+      "id": "10486",
+      "name": "ANTOFAGASTA DE LA SIERRA",
+      "cp": "4705"
+    },
+    {
+      "id": "16880",
+      "name": "APOCANGO",
+      "cp": "5340"
+    },
+    {
+      "id": "10861",
+      "name": "APOYACO",
+      "cp": "5317"
+    },
+    {
+      "id": "16764",
+      "name": "ARIMA",
+      "cp": "4740"
+    },
+    {
+      "id": "10492",
+      "name": "ASAMPAY",
+      "cp": "4751"
+    },
+    {
+      "id": "10447",
+      "name": "ASERRADERO EL PILCIO",
+      "cp": "4740"
+    },
+    {
+      "id": "10616",
+      "name": "AYAPASO",
+      "cp": "4234"
+    },
+    {
+      "id": "10817",
+      "name": "BALCOSNA",
+      "cp": "4719"
+    },
+    {
+      "id": "10818",
+      "name": "BALCOSNA DE AFUERA",
+      "cp": "4719"
+    },
+    {
+      "id": "16840",
+      "name": "BALDE",
+      "cp": "5260"
+    },
+    {
+      "id": "10562",
+      "name": "BALDE LA PUNTA",
+      "cp": "5263"
+    },
+    {
+      "id": "10563",
+      "name": "BALDE NUEVO",
+      "cp": "5263"
+    },
+    {
+      "id": "16766",
+      "name": "BALSA",
+      "cp": "4705"
+    },
+    {
+      "id": "16881",
+      "name": "BALUNGASTA",
+      "cp": "5340"
+    },
+    {
+      "id": "10689",
+      "name": "BAÑADO DE DIVISADERO",
+      "cp": "5261"
+    },
+    {
+      "id": "10939",
+      "name": "BAÑADO DE OVANTA",
+      "cp": "4723"
+    },
+    {
+      "id": "10892",
+      "name": "BANDA",
+      "cp": "4139"
+    },
+    {
+      "id": "10983",
+      "name": "BANDA DE LUCERO",
+      "cp": "5333"
+    },
+    {
+      "id": "10597",
+      "name": "BANDA VARELA",
+      "cp": "4700"
+    },
+    {
+      "id": "10984",
+      "name": "BAÑOS TERMALES",
+      "cp": "5345"
+    },
+    {
+      "id": "10493",
+      "name": "BARRANCA LARGA",
+      "cp": "4751"
+    },
+    {
+      "id": "10617",
+      "name": "BARRANQUITAS",
+      "cp": "4235"
+    },
+    {
+      "id": "16850",
+      "name": "BARRO NEGRO",
+      "cp": "4718"
+    },
+    {
+      "id": "16851",
+      "name": "BASTIDOR",
+      "cp": "4718"
+    },
+    {
+      "id": "10690",
+      "name": "BAVIANO",
+      "cp": "5265"
+    },
+    {
+      "id": "10618",
+      "name": "BEBIDA",
+      "cp": "4235"
+    },
+    {
+      "id": "10494",
+      "name": "BELEN",
+      "cp": "4750"
+    },
+    {
+      "id": "10619",
+      "name": "BELLA VISTA",
+      "cp": "4235"
+    },
+    {
+      "id": "27620",
+      "name": "BELLA VISTA",
+      "cp": "4715"
+    },
+    {
+      "id": "16605",
+      "name": "BISCOTAL",
+      "cp": "4715"
+    },
+    {
+      "id": "10359",
+      "name": "BREA",
+      "cp": "5265"
+    },
+    {
+      "id": "10620",
+      "name": "BREA CHIMPANA",
+      "cp": "4230"
+    },
+    {
+      "id": "16817",
+      "name": "BUEN RETIRO",
+      "cp": "5260"
+    },
+    {
+      "id": "10448",
+      "name": "BUENA VISTA",
+      "cp": "4743"
+    },
+    {
+      "id": "10564",
+      "name": "BUENA VISTA",
+      "cp": "5263"
+    },
+    {
+      "id": "16855",
+      "name": "BUEY MUERTO",
+      "cp": "4139"
+    },
+    {
+      "id": "16841",
+      "name": "BUEY MUERTO",
+      "cp": "5260"
+    },
+    {
+      "id": "10691",
+      "name": "CABALLA",
+      "cp": "5261"
+    },
+    {
+      "id": "10360",
+      "name": "CABRERA",
+      "cp": "4701"
+    },
+    {
+      "id": "10940",
+      "name": "CACHI",
+      "cp": "4723"
+    },
+    {
+      "id": "10495",
+      "name": "CACHIJAN",
+      "cp": "4751"
+    },
+    {
+      "id": "16800",
+      "name": "CACHUAN",
+      "cp": "4750"
+    },
+    {
+      "id": "10361",
+      "name": "CALACIO",
+      "cp": "4701"
+    },
+    {
+      "id": "10362",
+      "name": "CALERA",
+      "cp": "4701"
+    },
+    {
+      "id": "10862",
+      "name": "CALERA LA NORMA",
+      "cp": "5315"
+    },
+    {
+      "id": "10893",
+      "name": "CAMPITOS",
+      "cp": "4139"
+    },
+    {
+      "id": "16818",
+      "name": "CAMPO BELLO",
+      "cp": "5260"
+    },
+    {
+      "id": "16819",
+      "name": "CAMPO BLANCO",
+      "cp": "5260"
+    },
+    {
+      "id": "10692",
+      "name": "CAÑADA",
+      "cp": "5264"
+    },
+    {
+      "id": "10363",
+      "name": "CAÑADA DE IPIZCA",
+      "cp": "4701"
+    },
+    {
+      "id": "10364",
+      "name": "CAÑADA DE PAEZ",
+      "cp": "4701"
+    },
+    {
+      "id": "10365",
+      "name": "CAÑADA LARGA",
+      "cp": "5265"
+    },
+    {
+      "id": "27875",
+      "name": "CANDELARIA",
+      "cp": "4231"
+    },
+    {
+      "id": "10366",
+      "name": "CANDELARIA",
+      "cp": "4701"
+    },
+    {
+      "id": "16882",
+      "name": "CANTERA ROTA",
+      "cp": "5340"
+    },
+    {
+      "id": "10565",
+      "name": "CAPAYAN",
+      "cp": "4726"
+    },
+    {
+      "id": "10449",
+      "name": "CARAPUNCO",
+      "cp": "4741"
+    },
+    {
+      "id": "16871",
+      "name": "CARIDAD",
+      "cp": "4723"
+    },
+    {
+      "id": "10496",
+      "name": "CARRIZAL",
+      "cp": "4751"
+    },
+    {
+      "id": "10985",
+      "name": "CARRIZAL",
+      "cp": "5333"
+    },
+    {
+      "id": "10497",
+      "name": "CARRIZAL DE ABAJO",
+      "cp": "4751"
+    },
+    {
+      "id": "10498",
+      "name": "CARRIZAL DE LA COSTA",
+      "cp": "4751"
+    },
+    {
+      "id": "10367",
+      "name": "CASA ARMADA",
+      "cp": "4701"
+    },
+    {
+      "id": "16883",
+      "name": "CASA DE ALTO",
+      "cp": "5340"
+    },
+    {
+      "id": "10368",
+      "name": "CASA DE LA CUMBRE",
+      "cp": "5261"
+    },
+    {
+      "id": "10895",
+      "name": "CASA DE PIEDRA",
+      "cp": "4139"
+    },
+    {
+      "id": "10450",
+      "name": "CASA DE PIEDRA",
+      "cp": "4741"
+    },
+    {
+      "id": "16776",
+      "name": "CASA GRANDE",
+      "cp": "4750"
+    },
+    {
+      "id": "16884",
+      "name": "CASA GRANDE",
+      "cp": "5340"
+    },
+    {
+      "id": "10369",
+      "name": "CASA VIEJA",
+      "cp": "4701"
+    },
+    {
+      "id": "10307",
+      "name": "CASA VIEJAS",
+      "cp": "4711"
+    },
+    {
+      "id": "10894",
+      "name": "CASPINCHANGO",
+      "cp": "4139"
+    },
+    {
+      "id": "16885",
+      "name": "CASTAÑAR",
+      "cp": "5340"
+    },
+    {
+      "id": "16820",
+      "name": "CATITA",
+      "cp": "5260"
+    },
+    {
+      "id": "16886",
+      "name": "CERDAS",
+      "cp": "5340"
+    },
+    {
+      "id": "10694",
+      "name": "CERRILLADA",
+      "cp": "5264"
+    },
+    {
+      "id": "10566",
+      "name": "CERRILLOS",
+      "cp": "4139"
+    },
+    {
+      "id": "10896",
+      "name": "CERRILLOS",
+      "cp": "4139"
+    },
+    {
+      "id": "16856",
+      "name": "CERRO COLORADO",
+      "cp": "4139"
+    },
+    {
+      "id": "16842",
+      "name": "CERRO COLORADO",
+      "cp": "5260"
+    },
+    {
+      "id": "10986",
+      "name": "CERRO NEGRO",
+      "cp": "5331"
+    },
+    {
+      "id": "10819",
+      "name": "CERVIÑO",
+      "cp": "4716"
+    },
+    {
+      "id": "10599",
+      "name": "CHACABUCO",
+      "cp": "4700"
+    },
+    {
+      "id": "10370",
+      "name": "CHACRITAS",
+      "cp": "5265"
+    },
+    {
+      "id": "10897",
+      "name": "CHAFIÑAN",
+      "cp": "4139"
+    },
+    {
+      "id": "10308",
+      "name": "CHAMORRO",
+      "cp": "4715"
+    },
+    {
+      "id": "10621",
+      "name": "CHAÑAR LAGUNA",
+      "cp": "4234"
+    },
+    {
+      "id": "10898",
+      "name": "CHAÑAR PUNCO",
+      "cp": "4139"
+    },
+    {
+      "id": "16931",
+      "name": "CHAÑARCITO",
+      "cp": "4707"
+    },
+    {
+      "id": "10695",
+      "name": "CHAÑARITOS",
+      "cp": "5264"
+    },
+    {
+      "id": "10451",
+      "name": "CHAÑARYACO",
+      "cp": "4751"
+    },
+    {
+      "id": "16887",
+      "name": "CHANERO",
+      "cp": "5340"
+    },
+    {
+      "id": "10452",
+      "name": "CHAQUIAGO",
+      "cp": "4741"
+    },
+    {
+      "id": "10309",
+      "name": "CHAVARRIA",
+      "cp": "4715"
+    },
+    {
+      "id": "16888",
+      "name": "CHAVERO",
+      "cp": "5340"
+    },
+    {
+      "id": "10696",
+      "name": "CHICHAGASTA",
+      "cp": "5266"
+    },
+    {
+      "id": "16852",
+      "name": "CHIFLON",
+      "cp": "4718"
+    },
+    {
+      "id": "10453",
+      "name": "CHILCA",
+      "cp": "4740"
+    },
+    {
+      "id": "16777",
+      "name": "CHIQUERITO",
+      "cp": "4750"
+    },
+    {
+      "id": "10454",
+      "name": "CHOYA",
+      "cp": "4741"
+    },
+    {
+      "id": "10310",
+      "name": "CHUCHUCARUANA",
+      "cp": "4711"
+    },
+    {
+      "id": "16778",
+      "name": "CHUCOLAY",
+      "cp": "4750"
+    },
+    {
+      "id": "10568",
+      "name": "CHUMBICHA",
+      "cp": "4728"
+    },
+    {
+      "id": "16857",
+      "name": "CIENAGA",
+      "cp": "4139"
+    },
+    {
+      "id": "16862",
+      "name": "CIENAGA",
+      "cp": "5260"
+    },
+    {
+      "id": "10987",
+      "name": "CIENAGUITA",
+      "cp": "5333"
+    },
+    {
+      "id": "10672",
+      "name": "COLLAGASTA",
+      "cp": "4711"
+    },
+    {
+      "id": "10569",
+      "name": "COLONIA DEL VALLE",
+      "cp": "4726"
+    },
+    {
+      "id": "10570",
+      "name": "COLONIA NUEVA CONETA",
+      "cp": "4724"
+    },
+    {
+      "id": "10311",
+      "name": "COLPES",
+      "cp": "4711"
+    },
+    {
+      "id": "10863",
+      "name": "COLPES",
+      "cp": "5319"
+    },
+    {
+      "id": "10371",
+      "name": "CONCEPCION",
+      "cp": "4701"
+    },
+    {
+      "id": "10571",
+      "name": "CONCEPCION",
+      "cp": "4726"
+    },
+    {
+      "id": "10455",
+      "name": "CONDOR HUASI",
+      "cp": "4711"
+    },
+    {
+      "id": "10499",
+      "name": "CONDOR HUASI DE BELEN",
+      "cp": "4751"
+    },
+    {
+      "id": "10572",
+      "name": "CONETA",
+      "cp": "4724"
+    },
+    {
+      "id": "10988",
+      "name": "COPACABANA",
+      "cp": "5333"
+    },
+    {
+      "id": "10989",
+      "name": "CORDOBITA",
+      "cp": "5331"
+    },
+    {
+      "id": "10372",
+      "name": "CORRAL DE PIEDRA",
+      "cp": "4701"
+    },
+    {
+      "id": "10990",
+      "name": "CORRAL DE PIEDRA",
+      "cp": "5341"
+    },
+    {
+      "id": "10500",
+      "name": "CORRAL QUEMADO",
+      "cp": "4751"
+    },
+    {
+      "id": "16939",
+      "name": "CORRAL VIEJO",
+      "cp": "4139"
+    },
+    {
+      "id": "10373",
+      "name": "CORRAL VIEJO",
+      "cp": "4701"
+    },
+    {
+      "id": "16606",
+      "name": "CORRALITA",
+      "cp": "4715"
+    },
+    {
+      "id": "10501",
+      "name": "CORRALITO",
+      "cp": "4753"
+    },
+    {
+      "id": "10374",
+      "name": "CORRALITO",
+      "cp": "5265"
+    },
+    {
+      "id": "10697",
+      "name": "CORRALITOS",
+      "cp": "4230"
+    },
+    {
+      "id": "16779",
+      "name": "CORTADERA",
+      "cp": "4750"
+    },
+    {
+      "id": "16938",
+      "name": "CORTADERA",
+      "cp": "5340"
+    },
+    {
+      "id": "10941",
+      "name": "CORTADERAS",
+      "cp": "4237"
+    },
+    {
+      "id": "10698",
+      "name": "CORTADERAS",
+      "cp": "5261"
+    },
+    {
+      "id": "10991",
+      "name": "COSTA DE REYES",
+      "cp": "5341"
+    },
+    {
+      "id": "10502",
+      "name": "COTAGUA",
+      "cp": "4751"
+    },
+    {
+      "id": "16780",
+      "name": "CUEVA BLANCA",
+      "cp": "4750"
+    },
+    {
+      "id": "10503",
+      "name": "CULAMPAJA",
+      "cp": "4751"
+    },
+    {
+      "id": "16767",
+      "name": "CUMBRE DEL LAUDO",
+      "cp": "4705"
+    },
+    {
+      "id": "16863",
+      "name": "DESRUMBE",
+      "cp": "4139"
+    },
+    {
+      "id": "10456",
+      "name": "DISTRITO ESPINILLO",
+      "cp": "4740"
+    },
+    {
+      "id": "10699",
+      "name": "DIVISADERO",
+      "cp": "5260"
+    },
+    {
+      "id": "10942",
+      "name": "DOS POCITOS",
+      "cp": "4723"
+    },
+    {
+      "id": "10943",
+      "name": "DOS TRONCOS",
+      "cp": "4723"
+    },
+    {
+      "id": "16805",
+      "name": "DURAZNILLO",
+      "cp": "4750"
+    },
+    {
+      "id": "10504",
+      "name": "DURAZNO",
+      "cp": "4753"
+    },
+    {
+      "id": "10700",
+      "name": "EL ABRA",
+      "cp": "5261"
+    },
+    {
+      "id": "10457",
+      "name": "EL ALAMITO",
+      "cp": "4743"
+    },
+    {
+      "id": "10622",
+      "name": "EL ALTO",
+      "cp": "4235"
+    },
+    {
+      "id": "10992",
+      "name": "EL ALTO",
+      "cp": "5333"
+    },
+    {
+      "id": "10312",
+      "name": "EL ARBOL SOLO",
+      "cp": "4711"
+    },
+    {
+      "id": "10375",
+      "name": "EL ARBOLITO",
+      "cp": "4701"
+    },
+    {
+      "id": "10458",
+      "name": "EL ARBOLITO",
+      "cp": "4743"
+    },
+    {
+      "id": "10376",
+      "name": "EL ARENAL",
+      "cp": "5261"
+    },
+    {
+      "id": "10899",
+      "name": "EL ARROYO",
+      "cp": "4139"
+    },
+    {
+      "id": "10313",
+      "name": "EL ATOYAL",
+      "cp": "4715"
+    },
+    {
+      "id": "10701",
+      "name": "EL AYBAL",
+      "cp": "5261"
+    },
+    {
+      "id": "10900",
+      "name": "EL BALDE",
+      "cp": "4139"
+    },
+    {
+      "id": "11058",
+      "name": "EL BAÑADO",
+      "cp": "4707"
+    },
+    {
+      "id": "10573",
+      "name": "EL BAÑADO",
+      "cp": "4724"
+    },
+    {
+      "id": "10702",
+      "name": "EL BAÑADO",
+      "cp": "5261"
+    },
+    {
+      "id": "10377",
+      "name": "EL BARREAL",
+      "cp": "4701"
+    },
+    {
+      "id": "10703",
+      "name": "EL BARREAL",
+      "cp": "5260"
+    },
+    {
+      "id": "10704",
+      "name": "EL BARRIAL",
+      "cp": "5261"
+    },
+    {
+      "id": "10705",
+      "name": "EL BARRIALITO",
+      "cp": "4231"
+    },
+    {
+      "id": "10993",
+      "name": "EL BARRIALITO",
+      "cp": "5345"
+    },
+    {
+      "id": "10820",
+      "name": "EL BASTIDOR",
+      "cp": "4718"
+    },
+    {
+      "id": "10706",
+      "name": "EL BELLO",
+      "cp": "5260"
+    },
+    {
+      "id": "10314",
+      "name": "EL BISCOTE",
+      "cp": "4715"
+    },
+    {
+      "id": "10315",
+      "name": "EL BOLSON",
+      "cp": "4711"
+    },
+    {
+      "id": "10994",
+      "name": "EL CACHIYUYO",
+      "cp": "5341"
+    },
+    {
+      "id": "10707",
+      "name": "EL CACHO",
+      "cp": "5261"
+    },
+    {
+      "id": "10901",
+      "name": "EL CAJON",
+      "cp": "4139"
+    },
+    {
+      "id": "10505",
+      "name": "EL CAJON",
+      "cp": "4751"
+    },
+    {
+      "id": "10902",
+      "name": "EL CALCHAQUI",
+      "cp": "4139"
+    },
+    {
+      "id": "10506",
+      "name": "EL CAMPILLO",
+      "cp": "4751"
+    },
+    {
+      "id": "10944",
+      "name": "EL CARMEN",
+      "cp": "4723"
+    },
+    {
+      "id": "10574",
+      "name": "EL CARRIZAL",
+      "cp": "4726"
+    },
+    {
+      "id": "10459",
+      "name": "EL CARRIZAL",
+      "cp": "4741"
+    },
+    {
+      "id": "10507",
+      "name": "EL CARRIZAL",
+      "cp": "4751"
+    },
+    {
+      "id": "10708",
+      "name": "EL CENTENARIO",
+      "cp": "4231"
+    },
+    {
+      "id": "10378",
+      "name": "EL CERCADO",
+      "cp": "4701"
+    },
+    {
+      "id": "10709",
+      "name": "EL CERCADO",
+      "cp": "5260"
+    },
+    {
+      "id": "10903",
+      "name": "EL CERRITO",
+      "cp": "4139"
+    },
+    {
+      "id": "10710",
+      "name": "EL CERRITO",
+      "cp": "5261"
+    },
+    {
+      "id": "10821",
+      "name": "EL CEVIL",
+      "cp": "4716"
+    },
+    {
+      "id": "10379",
+      "name": "EL CEVILARCITO",
+      "cp": "4701"
+    },
+    {
+      "id": "10822",
+      "name": "EL CHAMICO",
+      "cp": "4719"
+    },
+    {
+      "id": "10380",
+      "name": "EL CHAÑARAL",
+      "cp": "4701"
+    },
+    {
+      "id": "10711",
+      "name": "EL CHAÑARAL",
+      "cp": "5261"
+    },
+    {
+      "id": "10381",
+      "name": "EL CHORRO",
+      "cp": "4701"
+    },
+    {
+      "id": "10316",
+      "name": "EL CHORRO",
+      "cp": "4711"
+    },
+    {
+      "id": "10712",
+      "name": "EL CIENAGO",
+      "cp": "5261"
+    },
+    {
+      "id": "10823",
+      "name": "EL CIFLON",
+      "cp": "4719"
+    },
+    {
+      "id": "10460",
+      "name": "EL COLEGIO",
+      "cp": "4740"
+    },
+    {
+      "id": "10824",
+      "name": "EL CONTADOR",
+      "cp": "4719"
+    },
+    {
+      "id": "10904",
+      "name": "EL DESMONTE",
+      "cp": "4139"
+    },
+    {
+      "id": "10673",
+      "name": "EL DESMONTE",
+      "cp": "4707"
+    },
+    {
+      "id": "10945",
+      "name": "EL DESMONTE",
+      "cp": "4723"
+    },
+    {
+      "id": "10825",
+      "name": "EL DURAZNILLO",
+      "cp": "4722"
+    },
+    {
+      "id": "10508",
+      "name": "EL DURAZNO",
+      "cp": "4751"
+    },
+    {
+      "id": "10509",
+      "name": "EL EJE",
+      "cp": "4751"
+    },
+    {
+      "id": "10461",
+      "name": "EL ESPINILLO",
+      "cp": "4743"
+    },
+    {
+      "id": "10713",
+      "name": "EL GACHO",
+      "cp": "5261"
+    },
+    {
+      "id": "10826",
+      "name": "EL GARABATO",
+      "cp": "4716"
+    },
+    {
+      "id": "11059",
+      "name": "EL HUECO",
+      "cp": "4707"
+    },
+    {
+      "id": "10462",
+      "name": "EL LINDERO",
+      "cp": "4740"
+    },
+    {
+      "id": "10714",
+      "name": "EL LINDERO",
+      "cp": "5260"
+    },
+    {
+      "id": "10905",
+      "name": "EL MEDANITO",
+      "cp": "4139"
+    },
+    {
+      "id": "10510",
+      "name": "EL MEDIO",
+      "cp": "4750"
+    },
+    {
+      "id": "10575",
+      "name": "EL MILAGRO",
+      "cp": "4726"
+    },
+    {
+      "id": "10715",
+      "name": "EL MILAGRO",
+      "cp": "5261"
+    },
+    {
+      "id": "10716",
+      "name": "EL MISTOLITO",
+      "cp": "5261"
+    },
+    {
+      "id": "10382",
+      "name": "EL MOJON",
+      "cp": "4701"
+    },
+    {
+      "id": "16754",
+      "name": "EL MOLINITO",
+      "cp": "4715"
+    },
+    {
+      "id": "10511",
+      "name": "EL MOLINO",
+      "cp": "4750"
+    },
+    {
+      "id": "10383",
+      "name": "EL MOLLAR",
+      "cp": "4701"
+    },
+    {
+      "id": "10463",
+      "name": "EL MOLLE",
+      "cp": "4740"
+    },
+    {
+      "id": "10717",
+      "name": "EL MORENO",
+      "cp": "5261"
+    },
+    {
+      "id": "10317",
+      "name": "EL NOGAL",
+      "cp": "4711"
+    },
+    {
+      "id": "10864",
+      "name": "EL PAJONAL",
+      "cp": "5315"
+    },
+    {
+      "id": "10318",
+      "name": "EL PARQUE",
+      "cp": "4711"
+    },
+    {
+      "id": "10995",
+      "name": "EL PEÑON",
+      "cp": "5345"
+    },
+    {
+      "id": "10319",
+      "name": "EL PIE DE LA CUESTA",
+      "cp": "4711"
+    },
+    {
+      "id": "10320",
+      "name": "EL POLEAR",
+      "cp": "4711"
+    },
+    {
+      "id": "10718",
+      "name": "EL POLEAR",
+      "cp": "5261"
+    },
+    {
+      "id": "10512",
+      "name": "EL PORTEZUELO",
+      "cp": "4750"
+    },
+    {
+      "id": "10719",
+      "name": "EL PORTEZUELO",
+      "cp": "5261"
+    },
+    {
+      "id": "10321",
+      "name": "EL POTRERILLO",
+      "cp": "4711"
+    },
+    {
+      "id": "10946",
+      "name": "EL POTRERO",
+      "cp": "4723"
+    },
+    {
+      "id": "10481",
+      "name": "EL POTRERO",
+      "cp": "4743"
+    },
+    {
+      "id": "10720",
+      "name": "EL POTRERO",
+      "cp": "5261"
+    },
+    {
+      "id": "10865",
+      "name": "EL POTRERO",
+      "cp": "5321"
+    },
+    {
+      "id": "10384",
+      "name": "EL POTRERO DE LOS CORDOBA",
+      "cp": "4701"
+    },
+    {
+      "id": "10385",
+      "name": "EL POZO",
+      "cp": "4701"
+    },
+    {
+      "id": "10464",
+      "name": "EL PUCARA",
+      "cp": "4711"
+    },
+    {
+      "id": "10996",
+      "name": "EL PUEBLITO",
+      "cp": "5331"
+    },
+    {
+      "id": "10721",
+      "name": "EL PUESTITO",
+      "cp": "5261"
+    },
+    {
+      "id": "10722",
+      "name": "EL PUESTO",
+      "cp": "5261"
+    },
+    {
+      "id": "10997",
+      "name": "EL PUESTO",
+      "cp": "5341"
+    },
+    {
+      "id": "10386",
+      "name": "EL QUEBRACHAL",
+      "cp": "5261"
+    },
+    {
+      "id": "10947",
+      "name": "EL QUEBRACHITO",
+      "cp": "4235"
+    },
+    {
+      "id": "10723",
+      "name": "EL QUIMILO",
+      "cp": "5263"
+    },
+    {
+      "id": "16755",
+      "name": "EL REALITO",
+      "cp": "4715"
+    },
+    {
+      "id": "16864",
+      "name": "EL RECREO",
+      "cp": "4139"
+    },
+    {
+      "id": "16843",
+      "name": "EL RECREO",
+      "cp": "5260"
+    },
+    {
+      "id": "10827",
+      "name": "EL RETIRO",
+      "cp": "4716"
+    },
+    {
+      "id": "10724",
+      "name": "EL RETIRO",
+      "cp": "5264"
+    },
+    {
+      "id": "10998",
+      "name": "EL RETIRO",
+      "cp": "5345"
+    },
+    {
+      "id": "10623",
+      "name": "EL RODEITO",
+      "cp": "4235"
+    },
+    {
+      "id": "16872",
+      "name": "EL RODEITO",
+      "cp": "4723"
+    },
+    {
+      "id": "10322",
+      "name": "EL RODEO",
+      "cp": "4715"
+    },
+    {
+      "id": "10323",
+      "name": "EL RODEO GRANDE",
+      "cp": "4711"
+    },
+    {
+      "id": "10624",
+      "name": "EL ROSARIO",
+      "cp": "4235"
+    },
+    {
+      "id": "10828",
+      "name": "EL ROSARIO",
+      "cp": "4719"
+    },
+    {
+      "id": "10725",
+      "name": "EL ROSARIO",
+      "cp": "5264"
+    },
+    {
+      "id": "10670",
+      "name": "EL SALADILLO",
+      "cp": "5261"
+    },
+    {
+      "id": "10387",
+      "name": "EL SALTITO",
+      "cp": "5261"
+    },
+    {
+      "id": "16811",
+      "name": "EL SALTO",
+      "cp": "5260"
+    },
+    {
+      "id": "10388",
+      "name": "EL SAUCE",
+      "cp": "4701"
+    },
+    {
+      "id": "10389",
+      "name": "EL SAUCE IPIZCA",
+      "cp": "4701"
+    },
+    {
+      "id": "16873",
+      "name": "EL SAUCECITO",
+      "cp": "4723"
+    },
+    {
+      "id": "10625",
+      "name": "EL SIMBOL",
+      "cp": "4234"
+    },
+    {
+      "id": "10465",
+      "name": "EL SUNCHO",
+      "cp": "4743"
+    },
+    {
+      "id": "10726",
+      "name": "EL SUNCHO",
+      "cp": "5261"
+    },
+    {
+      "id": "10324",
+      "name": "EL TABIQUE",
+      "cp": "4711"
+    },
+    {
+      "id": "10665",
+      "name": "EL TACO",
+      "cp": "4701"
+    },
+    {
+      "id": "10600",
+      "name": "EL TALA",
+      "cp": "4700"
+    },
+    {
+      "id": "10325",
+      "name": "EL TALA",
+      "cp": "4715"
+    },
+    {
+      "id": "10727",
+      "name": "EL TALA",
+      "cp": "5264"
+    },
+    {
+      "id": "10999",
+      "name": "EL TAMBILLO",
+      "cp": "4753"
+    },
+    {
+      "id": "10906",
+      "name": "EL TESORO",
+      "cp": "4139"
+    },
+    {
+      "id": "10513",
+      "name": "EL TIO",
+      "cp": "4751"
+    },
+    {
+      "id": "10514",
+      "name": "EL TOLAR",
+      "cp": "4751"
+    },
+    {
+      "id": "10390",
+      "name": "EL TOTORAL",
+      "cp": "4701"
+    },
+    {
+      "id": "10829",
+      "name": "EL TOTORAL",
+      "cp": "4718"
+    },
+    {
+      "id": "10907",
+      "name": "EL TRAPICHE",
+      "cp": "4139"
+    },
+    {
+      "id": "10728",
+      "name": "EL VALLE",
+      "cp": "5261"
+    },
+    {
+      "id": "10729",
+      "name": "EL VALLECITO",
+      "cp": "4230"
+    },
+    {
+      "id": "10626",
+      "name": "EL VALLECITO",
+      "cp": "4235"
+    },
+    {
+      "id": "10391",
+      "name": "EL VALLECITO",
+      "cp": "4701"
+    },
+    {
+      "id": "10392",
+      "name": "EL ZAPALLAR",
+      "cp": "4701"
+    },
+    {
+      "id": "10466",
+      "name": "EL ZAPALLAR",
+      "cp": "4741"
+    },
+    {
+      "id": "10908",
+      "name": "EL ZARZO",
+      "cp": "4139"
+    },
+    {
+      "id": "10730",
+      "name": "EMPALME SAN CARLOS",
+      "cp": "5260"
+    },
+    {
+      "id": "10731",
+      "name": "ENSENADA",
+      "cp": "5266"
+    },
+    {
+      "id": "10909",
+      "name": "ENTRE RIOS",
+      "cp": "4139"
+    },
+    {
+      "id": "10732",
+      "name": "ESQUIU",
+      "cp": "5261"
+    },
+    {
+      "id": "10866",
+      "name": "ESTABLECIMIENTO MINERO CERRO B",
+      "cp": "5317"
+    },
+    {
+      "id": "10867",
+      "name": "ESTACION POMAN",
+      "cp": "5315"
+    },
+    {
+      "id": "10393",
+      "name": "ESTANCIA",
+      "cp": "5265"
+    },
+    {
+      "id": "10910",
+      "name": "ESTANCIA VIEJA",
+      "cp": "4139"
+    },
+    {
+      "id": "10394",
+      "name": "ESTANCIA VIEJA",
+      "cp": "4701"
+    },
+    {
+      "id": "16889",
+      "name": "ESTANCITO",
+      "cp": "5340"
+    },
+    {
+      "id": "16932",
+      "name": "ESTANQUE",
+      "cp": "4707"
+    },
+    {
+      "id": "10627",
+      "name": "ESTANZUELA",
+      "cp": "4235"
+    },
+    {
+      "id": "16756",
+      "name": "FALDEO",
+      "cp": "4715"
+    },
+    {
+      "id": "10911",
+      "name": "FAMABALASTRO",
+      "cp": "4139"
+    },
+    {
+      "id": "10912",
+      "name": "FAMATANCA",
+      "cp": "4139"
+    },
+    {
+      "id": "10515",
+      "name": "FARALLON NEGRO",
+      "cp": "4751"
+    },
+    {
+      "id": "11000",
+      "name": "FIAMBALA",
+      "cp": "5345"
+    },
+    {
+      "id": "10913",
+      "name": "FUERTE QUEMADO",
+      "cp": "4141"
+    },
+    {
+      "id": "16757",
+      "name": "GALPON",
+      "cp": "4715"
+    },
+    {
+      "id": "10733",
+      "name": "GARAY",
+      "cp": "5261"
+    },
+    {
+      "id": "10734",
+      "name": "GARZON",
+      "cp": "4231"
+    },
+    {
+      "id": "16768",
+      "name": "GENTILE",
+      "cp": "4705"
+    },
+    {
+      "id": "10395",
+      "name": "GUANACO",
+      "cp": "4701"
+    },
+    {
+      "id": "16890",
+      "name": "GUANCHICITO",
+      "cp": "5340"
+    },
+    {
+      "id": "16891",
+      "name": "GUANCHIN",
+      "cp": "5340"
+    },
+    {
+      "id": "10628",
+      "name": "GUAYAMBA",
+      "cp": "4235"
+    },
+    {
+      "id": "16892",
+      "name": "GUINCHO",
+      "cp": "5340"
+    },
+    {
+      "id": "10396",
+      "name": "HIGUERA DEL ALUMBRE",
+      "cp": "4701"
+    },
+    {
+      "id": "10467",
+      "name": "HUACO",
+      "cp": "4741"
+    },
+    {
+      "id": "10516",
+      "name": "HUACO",
+      "cp": "4750"
+    },
+    {
+      "id": "10830",
+      "name": "HUACRA",
+      "cp": "4722"
+    },
+    {
+      "id": "10517",
+      "name": "HUALFIN",
+      "cp": "4751"
+    },
+    {
+      "id": "10469",
+      "name": "HUASAN",
+      "cp": "4740"
+    },
+    {
+      "id": "10518",
+      "name": "HUASAYACO",
+      "cp": "4751"
+    },
+    {
+      "id": "10468",
+      "name": "HUASCHASCHI",
+      "cp": "4740"
+    },
+    {
+      "id": "10519",
+      "name": "HUASI CIENAGA",
+      "cp": "4751"
+    },
+    {
+      "id": "11060",
+      "name": "HUAYCAMA",
+      "cp": "4705"
+    },
+    {
+      "id": "10576",
+      "name": "HUILLAPIMA",
+      "cp": "4726"
+    },
+    {
+      "id": "10326",
+      "name": "HUMAYA",
+      "cp": "4711"
+    },
+    {
+      "id": "10914",
+      "name": "IAPES",
+      "cp": "4139"
+    },
+    {
+      "id": "10735",
+      "name": "ICAÑO",
+      "cp": "5265"
+    },
+    {
+      "id": "10629",
+      "name": "ICHIPUCA",
+      "cp": "4234"
+    },
+    {
+      "id": "10630",
+      "name": "ILOGA",
+      "cp": "4235"
+    },
+    {
+      "id": "10631",
+      "name": "INACILLO",
+      "cp": "4235"
+    },
+    {
+      "id": "10632",
+      "name": "INFANZON",
+      "cp": "4235"
+    },
+    {
+      "id": "10397",
+      "name": "IPIZCA",
+      "cp": "4701"
+    },
+    {
+      "id": "10327",
+      "name": "ISLA LARGA",
+      "cp": "4711"
+    },
+    {
+      "id": "10520",
+      "name": "JACIPUNCO",
+      "cp": "4751"
+    },
+    {
+      "id": "10736",
+      "name": "JESUS MARIA",
+      "cp": "5264"
+    },
+    {
+      "id": "10868",
+      "name": "JOYANGO",
+      "cp": "5321"
+    },
+    {
+      "id": "16854",
+      "name": "JOYANGUITO",
+      "cp": "5315"
+    },
+    {
+      "id": "10915",
+      "name": "JULIPAO",
+      "cp": "4139"
+    },
+    {
+      "id": "27593",
+      "name": "JULUMAO",
+      "cp": "4740"
+    },
+    {
+      "id": "16821",
+      "name": "JUMEAL",
+      "cp": "5260"
+    },
+    {
+      "id": "16893",
+      "name": "JUNTA",
+      "cp": "5340"
+    },
+    {
+      "id": "11001",
+      "name": "KILOMETRO 1006",
+      "cp": "5331"
+    },
+    {
+      "id": "10737",
+      "name": "KILOMETRO 1008",
+      "cp": "5264"
+    },
+    {
+      "id": "10738",
+      "name": "KILOMETRO 1017",
+      "cp": "5264"
+    },
+    {
+      "id": "10633",
+      "name": "KILOMETRO 1093",
+      "cp": "4234"
+    },
+    {
+      "id": "10577",
+      "name": "KILOMETRO 128",
+      "cp": "4728"
+    },
+    {
+      "id": "10739",
+      "name": "KILOMETRO 38",
+      "cp": "5261"
+    },
+    {
+      "id": "10740",
+      "name": "KILOMETRO 955",
+      "cp": "5260"
+    },
+    {
+      "id": "10741",
+      "name": "KILOMETRO 969",
+      "cp": "5260"
+    },
+    {
+      "id": "10869",
+      "name": "KILOMETRO 975",
+      "cp": "5321"
+    },
+    {
+      "id": "10578",
+      "name": "KILOMETRO 99",
+      "cp": "5263"
+    },
+    {
+      "id": "10742",
+      "name": "KILOMETRO 997",
+      "cp": "5260"
+    },
+    {
+      "id": "11002",
+      "name": "KILOMETRO 999",
+      "cp": "5331"
+    },
+    {
+      "id": "10601",
+      "name": "LA AGUADA",
+      "cp": "4700"
+    },
+    {
+      "id": "10328",
+      "name": "LA AGUADA",
+      "cp": "4711"
+    },
+    {
+      "id": "10948",
+      "name": "LA AGUADA",
+      "cp": "4723"
+    },
+    {
+      "id": "10470",
+      "name": "LA AGUADA",
+      "cp": "4740"
+    },
+    {
+      "id": "10521",
+      "name": "LA AGUADA",
+      "cp": "4751"
+    },
+    {
+      "id": "10743",
+      "name": "LA AGUADA",
+      "cp": "5261"
+    },
+    {
+      "id": "10870",
+      "name": "LA AGUADA GRANDE",
+      "cp": "5321"
+    },
+    {
+      "id": "10398",
+      "name": "LA AGUADITA",
+      "cp": "4701"
+    },
+    {
+      "id": "11003",
+      "name": "LA AGUADITA",
+      "cp": "5345"
+    },
+    {
+      "id": "16758",
+      "name": "LA AGUITA",
+      "cp": "4715"
+    },
+    {
+      "id": "10444",
+      "name": "LA ALUMBRERA",
+      "cp": "4743"
+    },
+    {
+      "id": "10744",
+      "name": "LA ANTIGUA",
+      "cp": "5261"
+    },
+    {
+      "id": "10831",
+      "name": "LA BAJADA",
+      "cp": "4716"
+    },
+    {
+      "id": "10949",
+      "name": "LA BAJADA",
+      "cp": "4723"
+    },
+    {
+      "id": "10832",
+      "name": "LA BANDA",
+      "cp": "4716"
+    },
+    {
+      "id": "10471",
+      "name": "LA BANDA",
+      "cp": "4740"
+    },
+    {
+      "id": "10522",
+      "name": "LA BANDA",
+      "cp": "4750"
+    },
+    {
+      "id": "16801",
+      "name": "LA BARRANCA LARGA",
+      "cp": "4750"
+    },
+    {
+      "id": "10399",
+      "name": "LA BARROSA",
+      "cp": "4701"
+    },
+    {
+      "id": "10745",
+      "name": "LA BARROSA",
+      "cp": "5265"
+    },
+    {
+      "id": "10400",
+      "name": "LA BEBIDA",
+      "cp": "4701"
+    },
+    {
+      "id": "10602",
+      "name": "LA BREA",
+      "cp": "4700"
+    },
+    {
+      "id": "10746",
+      "name": "LA BREA",
+      "cp": "5260"
+    },
+    {
+      "id": "10747",
+      "name": "LA BUENA ESTRELLA",
+      "cp": "5260"
+    },
+    {
+      "id": "10634",
+      "name": "LA CALERA",
+      "cp": "4234"
+    },
+    {
+      "id": "10603",
+      "name": "LA CALERA",
+      "cp": "4700"
+    },
+    {
+      "id": "10950",
+      "name": "LA CALERA",
+      "cp": "4723"
+    },
+    {
+      "id": "10635",
+      "name": "LA CALERA DEL SAUCE",
+      "cp": "4235"
+    },
+    {
+      "id": "16865",
+      "name": "LA CAMPANA",
+      "cp": "4139"
+    },
+    {
+      "id": "16844",
+      "name": "LA CAMPANA",
+      "cp": "5260"
+    },
+    {
+      "id": "10329",
+      "name": "LA CAÑADA",
+      "cp": "4715"
+    },
+    {
+      "id": "10579",
+      "name": "LA CAÑADA",
+      "cp": "4726"
+    },
+    {
+      "id": "10523",
+      "name": "LA CAÑADA",
+      "cp": "4751"
+    },
+    {
+      "id": "10748",
+      "name": "LA CAÑADA",
+      "cp": "5261"
+    },
+    {
+      "id": "11004",
+      "name": "LA CAÑADA LARGA",
+      "cp": "5341"
+    },
+    {
+      "id": "11005",
+      "name": "LA CANDELARIA",
+      "cp": "5333"
+    },
+    {
+      "id": "10524",
+      "name": "LA CAPELLANIA",
+      "cp": "4751"
+    },
+    {
+      "id": "11006",
+      "name": "LA CAPELLANIA",
+      "cp": "5333"
+    },
+    {
+      "id": "10674",
+      "name": "LA CARRERA",
+      "cp": "4711"
+    },
+    {
+      "id": "10604",
+      "name": "LA CHACARITA",
+      "cp": "4700"
+    },
+    {
+      "id": "10605",
+      "name": "LA CHACARITA DE LOS PADRES",
+      "cp": "4700"
+    },
+    {
+      "id": "16894",
+      "name": "LA CHILCA",
+      "cp": "5340"
+    },
+    {
+      "id": "10525",
+      "name": "LA CIENAGA",
+      "cp": "4751"
+    },
+    {
+      "id": "11007",
+      "name": "LA CIENAGA",
+      "cp": "5341"
+    },
+    {
+      "id": "11008",
+      "name": "LA CIENAGA DE LOS ZONDONES",
+      "cp": "5341"
+    },
+    {
+      "id": "10749",
+      "name": "LA COLONIA",
+      "cp": "5261"
+    },
+    {
+      "id": "10526",
+      "name": "LA COSTA",
+      "cp": "4750"
+    },
+    {
+      "id": "10527",
+      "name": "LA CUESTA",
+      "cp": "4751"
+    },
+    {
+      "id": "10750",
+      "name": "LA DORADA",
+      "cp": "5261"
+    },
+    {
+      "id": "10833",
+      "name": "LA ESQUINA",
+      "cp": "4718"
+    },
+    {
+      "id": "10636",
+      "name": "LA ESTANCIA",
+      "cp": "4235"
+    },
+    {
+      "id": "10401",
+      "name": "LA ESTANCIA",
+      "cp": "4701"
+    },
+    {
+      "id": "10528",
+      "name": "LA ESTANCIA",
+      "cp": "4751"
+    },
+    {
+      "id": "10402",
+      "name": "LA ESTANCITA",
+      "cp": "4701"
+    },
+    {
+      "id": "10637",
+      "name": "LA ESTANZUELA",
+      "cp": "4235"
+    },
+    {
+      "id": "11061",
+      "name": "LA ESTRELLA",
+      "cp": "4724"
+    },
+    {
+      "id": "10403",
+      "name": "LA FALDA",
+      "cp": "4701"
+    },
+    {
+      "id": "10834",
+      "name": "LA FALDA",
+      "cp": "4718"
+    },
+    {
+      "id": "10751",
+      "name": "LA FALDA",
+      "cp": "5265"
+    },
+    {
+      "id": "11009",
+      "name": "LA FALDA",
+      "cp": "5341"
+    },
+    {
+      "id": "10675",
+      "name": "LA FALDA DE SAN ANTONIO",
+      "cp": "4707"
+    },
+    {
+      "id": "10752",
+      "name": "LA FLORIDA",
+      "cp": "5261"
+    },
+    {
+      "id": "11010",
+      "name": "LA FLORIDA",
+      "cp": "5341"
+    },
+    {
+      "id": "10753",
+      "name": "LA GRANJA",
+      "cp": "5264"
+    },
+    {
+      "id": "10754",
+      "name": "LA GUARDIA",
+      "cp": "5263"
+    },
+    {
+      "id": "10835",
+      "name": "LA HIGUERA",
+      "cp": "4719"
+    },
+    {
+      "id": "10404",
+      "name": "LA HIGUERITA",
+      "cp": "4701"
+    },
+    {
+      "id": "16940",
+      "name": "LA HIGUERITA",
+      "cp": "5261"
+    },
+    {
+      "id": "10580",
+      "name": "LA HORQUETA",
+      "cp": "5263"
+    },
+    {
+      "id": "10472",
+      "name": "LA HOYADA",
+      "cp": "4139"
+    },
+    {
+      "id": "16866",
+      "name": "LA HOYADA",
+      "cp": "4139"
+    },
+    {
+      "id": "16845",
+      "name": "LA HOYADA",
+      "cp": "5260"
+    },
+    {
+      "id": "10638",
+      "name": "LA HUERTA",
+      "cp": "4235"
+    },
+    {
+      "id": "10405",
+      "name": "LA HUERTA",
+      "cp": "5261"
+    },
+    {
+      "id": "10755",
+      "name": "LA ISLA",
+      "cp": "5264"
+    },
+    {
+      "id": "11011",
+      "name": "LA ISLA",
+      "cp": "5333"
+    },
+    {
+      "id": "10473",
+      "name": "LA LAGUNA",
+      "cp": "4741"
+    },
+    {
+      "id": "16867",
+      "name": "LA LOMA",
+      "cp": "4139"
+    },
+    {
+      "id": "16846",
+      "name": "LA LOMA",
+      "cp": "5260"
+    },
+    {
+      "id": "11012",
+      "name": "LA MAJADA",
+      "cp": "5341"
+    },
+    {
+      "id": "10951",
+      "name": "LA MARAVILLA",
+      "cp": "5264"
+    },
+    {
+      "id": "10836",
+      "name": "LA MERCED",
+      "cp": "4718"
+    },
+    {
+      "id": "10406",
+      "name": "LA MESADA",
+      "cp": "4701"
+    },
+    {
+      "id": "11013",
+      "name": "LA MESADA",
+      "cp": "5341"
+    },
+    {
+      "id": "10756",
+      "name": "LA MONTOSA",
+      "cp": "5261"
+    },
+    {
+      "id": "10916",
+      "name": "LA OLLADA",
+      "cp": "4139"
+    },
+    {
+      "id": "10917",
+      "name": "LA OVEJERIA",
+      "cp": "4719"
+    },
+    {
+      "id": "11014",
+      "name": "LA PALCA",
+      "cp": "5341"
+    },
+    {
+      "id": "10757",
+      "name": "LA PARADA",
+      "cp": "5265"
+    },
+    {
+      "id": "10581",
+      "name": "LA PARAGUAYA",
+      "cp": "4724"
+    },
+    {
+      "id": "10407",
+      "name": "LA PEÑA",
+      "cp": "5261"
+    },
+    {
+      "id": "10758",
+      "name": "LA PEÑA",
+      "cp": "5261"
+    },
+    {
+      "id": "10330",
+      "name": "LA PIEDRA",
+      "cp": "4715"
+    },
+    {
+      "id": "10331",
+      "name": "LA PUERTA",
+      "cp": "4711"
+    },
+    {
+      "id": "10529",
+      "name": "LA PUERTA DE SAN JOSE",
+      "cp": "4751"
+    },
+    {
+      "id": "10530",
+      "name": "LA PUNTILLA",
+      "cp": "4750"
+    },
+    {
+      "id": "11015",
+      "name": "LA PUNTILLA",
+      "cp": "5331"
+    },
+    {
+      "id": "11016",
+      "name": "LA PUNTILLA DE SAN JOSE",
+      "cp": "5341"
+    },
+    {
+      "id": "10918",
+      "name": "LA QUEBRADA",
+      "cp": "4139"
+    },
+    {
+      "id": "10639",
+      "name": "LA QUEBRADA",
+      "cp": "4234"
+    },
+    {
+      "id": "10531",
+      "name": "LA QUEBRADA",
+      "cp": "4751"
+    },
+    {
+      "id": "10759",
+      "name": "LA QUINTA",
+      "cp": "5261"
+    },
+    {
+      "id": "10532",
+      "name": "LA RAMADA",
+      "cp": "4753"
+    },
+    {
+      "id": "11017",
+      "name": "LA RAMADITA",
+      "cp": "5341"
+    },
+    {
+      "id": "10760",
+      "name": "LA RENOVACION",
+      "cp": "4231"
+    },
+    {
+      "id": "16781",
+      "name": "LA REPRESA",
+      "cp": "4750"
+    },
+    {
+      "id": "16759",
+      "name": "LA SALVIA",
+      "cp": "4715"
+    },
+    {
+      "id": "10919",
+      "name": "LA SOLEDAD",
+      "cp": "4139"
+    },
+    {
+      "id": "10613",
+      "name": "LA TERCENA",
+      "cp": "4707"
+    },
+    {
+      "id": "10408",
+      "name": "LA TIGRA",
+      "cp": "5261"
+    },
+    {
+      "id": "10533",
+      "name": "LA TOMA",
+      "cp": "4751"
+    },
+    {
+      "id": "16782",
+      "name": "LA TOTORA",
+      "cp": "4750"
+    },
+    {
+      "id": "10761",
+      "name": "LA VALENTINA",
+      "cp": "5261"
+    },
+    {
+      "id": "16874",
+      "name": "LA VICTORIA",
+      "cp": "4723"
+    },
+    {
+      "id": "10837",
+      "name": "LA VIÑA",
+      "cp": "4722"
+    },
+    {
+      "id": "10534",
+      "name": "LA VIÑA",
+      "cp": "4751"
+    },
+    {
+      "id": "10838",
+      "name": "LA VIÑA DE ABAJO",
+      "cp": "4722"
+    },
+    {
+      "id": "10871",
+      "name": "LA YEGUA MUERTA",
+      "cp": "5321"
+    },
+    {
+      "id": "10762",
+      "name": "LA ZANJA",
+      "cp": "5261"
+    },
+    {
+      "id": "10535",
+      "name": "LAGUNA BLANCA",
+      "cp": "4751"
+    },
+    {
+      "id": "10536",
+      "name": "LAGUNA COLORADA",
+      "cp": "4751"
+    },
+    {
+      "id": "16822",
+      "name": "LAGUNITA",
+      "cp": "5260"
+    },
+    {
+      "id": "16823",
+      "name": "LAJA",
+      "cp": "5260"
+    },
+    {
+      "id": "10582",
+      "name": "LAMPASILLO",
+      "cp": "4726"
+    },
+    {
+      "id": "27640",
+      "name": "LAMPASITO",
+      "cp": "4139"
+    },
+    {
+      "id": "16760",
+      "name": "LAMPASO",
+      "cp": "4715"
+    },
+    {
+      "id": "10332",
+      "name": "LAS AGUITAS",
+      "cp": "4715"
+    },
+    {
+      "id": "10409",
+      "name": "LAS BARRANCAS",
+      "cp": "4701"
+    },
+    {
+      "id": "10814",
+      "name": "LAS BARRANCAS",
+      "cp": "4751"
+    },
+    {
+      "id": "10410",
+      "name": "LAS BARRANCAS CASA ARMADA",
+      "cp": "4701"
+    },
+    {
+      "id": "16761",
+      "name": "LAS BARRAS",
+      "cp": "4715"
+    },
+    {
+      "id": "10537",
+      "name": "LAS BAYAS",
+      "cp": "4753"
+    },
+    {
+      "id": "10872",
+      "name": "LAS BREAS",
+      "cp": "5321"
+    },
+    {
+      "id": "10333",
+      "name": "LAS BURRAS",
+      "cp": "4715"
+    },
+    {
+      "id": "10952",
+      "name": "LAS CAÑAS",
+      "cp": "4235"
+    },
+    {
+      "id": "10873",
+      "name": "LAS CASITAS",
+      "cp": "5315"
+    },
+    {
+      "id": "10953",
+      "name": "LAS CAYAS",
+      "cp": "4723"
+    },
+    {
+      "id": "10411",
+      "name": "LAS CHACRAS",
+      "cp": "4701"
+    },
+    {
+      "id": "11018",
+      "name": "LAS CHACRAS",
+      "cp": "5331"
+    },
+    {
+      "id": "10334",
+      "name": "LAS CHACRITAS",
+      "cp": "4711"
+    },
+    {
+      "id": "10874",
+      "name": "LAS CIENAGAS",
+      "cp": "5315"
+    },
+    {
+      "id": "10763",
+      "name": "LAS CORTADERAS",
+      "cp": "5261"
+    },
+    {
+      "id": "16812",
+      "name": "LAS CORTADERITAS",
+      "cp": "5260"
+    },
+    {
+      "id": "10335",
+      "name": "LAS CUCHILLAS",
+      "cp": "4715"
+    },
+    {
+      "id": "10412",
+      "name": "LAS CUCHILLAS",
+      "cp": "5261"
+    },
+    {
+      "id": "10413",
+      "name": "LAS CUCHILLAS DEL AYBAL",
+      "cp": "5265"
+    },
+    {
+      "id": "10538",
+      "name": "LAS CUEVAS",
+      "cp": "4751"
+    },
+    {
+      "id": "11062",
+      "name": "LAS ESQUINAS",
+      "cp": "4707"
+    },
+    {
+      "id": "10474",
+      "name": "LAS ESTANCIAS",
+      "cp": "4743"
+    },
+    {
+      "id": "10764",
+      "name": "LAS FLORES",
+      "cp": "5261"
+    },
+    {
+      "id": "11019",
+      "name": "LAS HIGUERITAS",
+      "cp": "5340"
+    },
+    {
+      "id": "10839",
+      "name": "LAS HUERTAS",
+      "cp": "4722"
+    },
+    {
+      "id": "10765",
+      "name": "LAS IGUANAS",
+      "cp": "4231"
+    },
+    {
+      "id": "10336",
+      "name": "LAS JUNTAS",
+      "cp": "4715"
+    },
+    {
+      "id": "10539",
+      "name": "LAS JUNTAS",
+      "cp": "4751"
+    },
+    {
+      "id": "10640",
+      "name": "LAS JUSTAS",
+      "cp": "4235"
+    },
+    {
+      "id": "10337",
+      "name": "LAS LAJAS",
+      "cp": "4715"
+    },
+    {
+      "id": "10840",
+      "name": "LAS LAJAS",
+      "cp": "4719"
+    },
+    {
+      "id": "16859",
+      "name": "LAS LATILLAS",
+      "cp": "4728"
+    },
+    {
+      "id": "16806",
+      "name": "LAS LATILLAS",
+      "cp": "4750"
+    },
+    {
+      "id": "10641",
+      "name": "LAS LOMITAS",
+      "cp": "4234"
+    },
+    {
+      "id": "10954",
+      "name": "LAS LOMITAS",
+      "cp": "4235"
+    },
+    {
+      "id": "10766",
+      "name": "LAS LOMITAS",
+      "cp": "5261"
+    },
+    {
+      "id": "16895",
+      "name": "LAS LOSAS",
+      "cp": "5340"
+    },
+    {
+      "id": "10540",
+      "name": "LAS MANZAS",
+      "cp": "4751"
+    },
+    {
+      "id": "10815",
+      "name": "LAS MINAS",
+      "cp": "4740"
+    },
+    {
+      "id": "10920",
+      "name": "LAS MOJARRAS",
+      "cp": "4139"
+    },
+    {
+      "id": "10583",
+      "name": "LAS PALMAS",
+      "cp": "4726"
+    },
+    {
+      "id": "10767",
+      "name": "LAS PALMITAS",
+      "cp": "4231"
+    },
+    {
+      "id": "10768",
+      "name": "LAS PALOMAS",
+      "cp": "5261"
+    },
+    {
+      "id": "10955",
+      "name": "LAS PAMPAS",
+      "cp": "4235"
+    },
+    {
+      "id": "11020",
+      "name": "LAS PAMPAS",
+      "cp": "5341"
+    },
+    {
+      "id": "10338",
+      "name": "LAS PAMPITAS",
+      "cp": "4711"
+    },
+    {
+      "id": "10475",
+      "name": "LAS PAMPITAS",
+      "cp": "4743"
+    },
+    {
+      "id": "11021",
+      "name": "LAS PAPAS",
+      "cp": "5341"
+    },
+    {
+      "id": "16896",
+      "name": "LAS PELADAS",
+      "cp": "5340"
+    },
+    {
+      "id": "10769",
+      "name": "LAS PEÑAS",
+      "cp": "5263"
+    },
+    {
+      "id": "10339",
+      "name": "LAS PIEDRAS BLANCAS",
+      "cp": "4715"
+    },
+    {
+      "id": "16824",
+      "name": "LAS PUERTAS",
+      "cp": "5260"
+    },
+    {
+      "id": "11022",
+      "name": "LAS RETAMAS",
+      "cp": "5345"
+    },
+    {
+      "id": "10642",
+      "name": "LAS TAPIAS",
+      "cp": "4235"
+    },
+    {
+      "id": "10414",
+      "name": "LAS TAPIAS",
+      "cp": "4701"
+    },
+    {
+      "id": "10770",
+      "name": "LAS TEJAS",
+      "cp": "4231"
+    },
+    {
+      "id": "11063",
+      "name": "LAS TEJAS DE VALLE VIEJO",
+      "cp": "4700"
+    },
+    {
+      "id": "10771",
+      "name": "LAS TOSCAS",
+      "cp": "5265"
+    },
+    {
+      "id": "10643",
+      "name": "LAS TRANCAS",
+      "cp": "4235"
+    },
+    {
+      "id": "10841",
+      "name": "LAS TRANQUITAS",
+      "cp": "4722"
+    },
+    {
+      "id": "10644",
+      "name": "LAS TRILLAS",
+      "cp": "4235"
+    },
+    {
+      "id": "10415",
+      "name": "LAS TUNAS",
+      "cp": "4701"
+    },
+    {
+      "id": "10956",
+      "name": "LAS TUNAS",
+      "cp": "4723"
+    },
+    {
+      "id": "10606",
+      "name": "LAS VARITAS",
+      "cp": "4700"
+    },
+    {
+      "id": "16825",
+      "name": "LAS ZANJAS",
+      "cp": "5260"
+    },
+    {
+      "id": "10980",
+      "name": "LAVALLE",
+      "cp": "5343"
+    },
+    {
+      "id": "10607",
+      "name": "LAZARETO",
+      "cp": "4700"
+    },
+    {
+      "id": "16826",
+      "name": "LIEBRE",
+      "cp": "5260"
+    },
+    {
+      "id": "10645",
+      "name": "LINDERO",
+      "cp": "4235"
+    },
+    {
+      "id": "10541",
+      "name": "LOCONTE",
+      "cp": "4751"
+    },
+    {
+      "id": "10608",
+      "name": "LOMA CORTADA",
+      "cp": "4700"
+    },
+    {
+      "id": "16897",
+      "name": "LOMA GRANDE",
+      "cp": "5340"
+    },
+    {
+      "id": "10416",
+      "name": "LOMA SOLA",
+      "cp": "4701"
+    },
+    {
+      "id": "10542",
+      "name": "LONDRES",
+      "cp": "4753"
+    },
+    {
+      "id": "10543",
+      "name": "LONDRES ESTE",
+      "cp": "4750"
+    },
+    {
+      "id": "10544",
+      "name": "LONDRES OESTE",
+      "cp": "4753"
+    },
+    {
+      "id": "16783",
+      "name": "LORO HUASI",
+      "cp": "4139"
+    },
+    {
+      "id": "27639",
+      "name": "LORO HUASI",
+      "cp": "4139"
+    },
+    {
+      "id": "11023",
+      "name": "LORO HUASI",
+      "cp": "5340"
+    },
+    {
+      "id": "10772",
+      "name": "LOS ALAMOS",
+      "cp": "4235"
+    },
+    {
+      "id": "10957",
+      "name": "LOS ALTOS",
+      "cp": "4723"
+    },
+    {
+      "id": "10584",
+      "name": "LOS ANGELES",
+      "cp": "4724"
+    },
+    {
+      "id": "10875",
+      "name": "LOS BALDES",
+      "cp": "5315"
+    },
+    {
+      "id": "11024",
+      "name": "LOS BALVERDIS",
+      "cp": "5331"
+    },
+    {
+      "id": "10958",
+      "name": "LOS BASTIDORES",
+      "cp": "4723"
+    },
+    {
+      "id": "10585",
+      "name": "LOS BAZAN",
+      "cp": "4724"
+    },
+    {
+      "id": "10417",
+      "name": "LOS BULACIO",
+      "cp": "4701"
+    },
+    {
+      "id": "10773",
+      "name": "LOS CADILLOS",
+      "cp": "5261"
+    },
+    {
+      "id": "10876",
+      "name": "LOS CAJONES",
+      "cp": "5317"
+    },
+    {
+      "id": "10340",
+      "name": "LOS CASTILLOS",
+      "cp": "4711"
+    },
+    {
+      "id": "16813",
+      "name": "LOS CAUDILLOS",
+      "cp": "5260"
+    },
+    {
+      "id": "16898",
+      "name": "LOS CHANAMPA",
+      "cp": "5340"
+    },
+    {
+      "id": "16827",
+      "name": "LOS CHAÑARES",
+      "cp": "5260"
+    },
+    {
+      "id": "10567",
+      "name": "LOS CHAÑARITOS",
+      "cp": "4726"
+    },
+    {
+      "id": "10646",
+      "name": "LOS CISTERNAS",
+      "cp": "4701"
+    },
+    {
+      "id": "10545",
+      "name": "LOS COLORADOS",
+      "cp": "4753"
+    },
+    {
+      "id": "10774",
+      "name": "LOS CORDOBESES",
+      "cp": "4231"
+    },
+    {
+      "id": "10775",
+      "name": "LOS CORRALES",
+      "cp": "4235"
+    },
+    {
+      "id": "10959",
+      "name": "LOS ESTANTES",
+      "cp": "4723"
+    },
+    {
+      "id": "10842",
+      "name": "LOS GALPONES",
+      "cp": "4718"
+    },
+    {
+      "id": "11025",
+      "name": "LOS GONZALES",
+      "cp": "5331"
+    },
+    {
+      "id": "11026",
+      "name": "LOS GUAYTIMAS",
+      "cp": "5340"
+    },
+    {
+      "id": "10341",
+      "name": "LOS GUINDOS",
+      "cp": "4711"
+    },
+    {
+      "id": "10418",
+      "name": "LOS HUAYCOS",
+      "cp": "4701"
+    },
+    {
+      "id": "10342",
+      "name": "LOS LOROS",
+      "cp": "4715"
+    },
+    {
+      "id": "10419",
+      "name": "LOS MOGOTES",
+      "cp": "5261"
+    },
+    {
+      "id": "10343",
+      "name": "LOS MOLLES",
+      "cp": "4715"
+    },
+    {
+      "id": "10960",
+      "name": "LOS MOLLES",
+      "cp": "4723"
+    },
+    {
+      "id": "10420",
+      "name": "LOS MOLLES",
+      "cp": "5261"
+    },
+    {
+      "id": "10546",
+      "name": "LOS MORTERITOS",
+      "cp": "4711"
+    },
+    {
+      "id": "10647",
+      "name": "LOS MORTEROS",
+      "cp": "4234"
+    },
+    {
+      "id": "10421",
+      "name": "LOS MORTEROS",
+      "cp": "4701"
+    },
+    {
+      "id": "11027",
+      "name": "LOS MORTEROS",
+      "cp": "5345"
+    },
+    {
+      "id": "10547",
+      "name": "LOS NACIMIENTOS",
+      "cp": "4751"
+    },
+    {
+      "id": "10344",
+      "name": "LOS NARVAEZ",
+      "cp": "4711"
+    },
+    {
+      "id": "10345",
+      "name": "LOS NAVARROS",
+      "cp": "4711"
+    },
+    {
+      "id": "10776",
+      "name": "LOS NOGALES",
+      "cp": "4235"
+    },
+    {
+      "id": "10648",
+      "name": "LOS ORTICES",
+      "cp": "4235"
+    },
+    {
+      "id": "10961",
+      "name": "LOS ORTICES",
+      "cp": "4723"
+    },
+    {
+      "id": "10843",
+      "name": "LOS OVEJEROS",
+      "cp": "4722"
+    },
+    {
+      "id": "11028",
+      "name": "LOS PALACIOS",
+      "cp": "5340"
+    },
+    {
+      "id": "10649",
+      "name": "LOS PEDRAZAS",
+      "cp": "4235"
+    },
+    {
+      "id": "10586",
+      "name": "LOS PINOS",
+      "cp": "4724"
+    },
+    {
+      "id": "10844",
+      "name": "LOS PINTADOS",
+      "cp": "4722"
+    },
+    {
+      "id": "10422",
+      "name": "LOS PIQUILLINES",
+      "cp": "4701"
+    },
+    {
+      "id": "10962",
+      "name": "LOS POCITOS",
+      "cp": "4723"
+    },
+    {
+      "id": "10777",
+      "name": "LOS POCITOS",
+      "cp": "5261"
+    },
+    {
+      "id": "11029",
+      "name": "LOS POTRERILLOS",
+      "cp": "5341"
+    },
+    {
+      "id": "10921",
+      "name": "LOS POZUELOS",
+      "cp": "4139"
+    },
+    {
+      "id": "10548",
+      "name": "LOS POZUELOS",
+      "cp": "4751"
+    },
+    {
+      "id": "10587",
+      "name": "LOS PUESTOS",
+      "cp": "4724"
+    },
+    {
+      "id": "10346",
+      "name": "LOS PUESTOS",
+      "cp": "5319"
+    },
+    {
+      "id": "11030",
+      "name": "LOS QUINTEROS",
+      "cp": "5331"
+    },
+    {
+      "id": "10476",
+      "name": "LOS RASTROJOS",
+      "cp": "4701"
+    },
+    {
+      "id": "11031",
+      "name": "LOS RINCONES",
+      "cp": "5331"
+    },
+    {
+      "id": "11032",
+      "name": "LOS ROBLEDOS",
+      "cp": "5340"
+    },
+    {
+      "id": "10922",
+      "name": "LOS SALTOS",
+      "cp": "4139"
+    },
+    {
+      "id": "10347",
+      "name": "LOS TALAS",
+      "cp": "4711"
+    },
+    {
+      "id": "10963",
+      "name": "LOS TRONCOS",
+      "cp": "4723"
+    },
+    {
+      "id": "11033",
+      "name": "LOS VALDEZ",
+      "cp": "5340"
+    },
+    {
+      "id": "16899",
+      "name": "LOS VALVEROS",
+      "cp": "5340"
+    },
+    {
+      "id": "10348",
+      "name": "LOS VARELA",
+      "cp": "4711"
+    },
+    {
+      "id": "10964",
+      "name": "LOS ZANJONES",
+      "cp": "4723"
+    },
+    {
+      "id": "16784",
+      "name": "LUNA AGUADA",
+      "cp": "4750"
+    },
+    {
+      "id": "10423",
+      "name": "MAJADA",
+      "cp": "5265"
+    },
+    {
+      "id": "10877",
+      "name": "MALCASCO",
+      "cp": "5315"
+    },
+    {
+      "id": "10477",
+      "name": "MALLI 1",
+      "cp": "4740"
+    },
+    {
+      "id": "10478",
+      "name": "MALLI 2",
+      "cp": "4740"
+    },
+    {
+      "id": "10965",
+      "name": "MANANTIALES",
+      "cp": "4723"
+    },
+    {
+      "id": "10778",
+      "name": "MARIA DORA",
+      "cp": "5264"
+    },
+    {
+      "id": "10779",
+      "name": "MARIA ELENA",
+      "cp": "5261"
+    },
+    {
+      "id": "16900",
+      "name": "MATAMBRE",
+      "cp": "5340"
+    },
+    {
+      "id": "10923",
+      "name": "MEDANITO",
+      "cp": "4139"
+    },
+    {
+      "id": "11034",
+      "name": "MEDANITOS",
+      "cp": "5341"
+    },
+    {
+      "id": "16901",
+      "name": "MEDANO",
+      "cp": "5340"
+    },
+    {
+      "id": "11035",
+      "name": "MESADA DE LOS ZARATE",
+      "cp": "5341"
+    },
+    {
+      "id": "11036",
+      "name": "MESADA GRANDE",
+      "cp": "5341"
+    },
+    {
+      "id": "10650",
+      "name": "MINA DAL",
+      "cp": "4235"
+    },
+    {
+      "id": "10485",
+      "name": "MINA INCA HUASI",
+      "cp": "4705"
+    },
+    {
+      "id": "10549",
+      "name": "MINAS AGUA TAPADA",
+      "cp": "4751"
+    },
+    {
+      "id": "27636",
+      "name": "MINAS CAPILLITAS",
+      "cp": "4740"
+    },
+    {
+      "id": "10588",
+      "name": "MIRAFLORES",
+      "cp": "4724"
+    },
+    {
+      "id": "10878",
+      "name": "MISCHANGO",
+      "cp": "5315"
+    },
+    {
+      "id": "10966",
+      "name": "MISTOL ANCHO",
+      "cp": "4723"
+    },
+    {
+      "id": "10349",
+      "name": "MOLLE QUEMADO",
+      "cp": "4715"
+    },
+    {
+      "id": "10479",
+      "name": "MOLLECITO",
+      "cp": "5319"
+    },
+    {
+      "id": "16828",
+      "name": "MOLLEGASTA",
+      "cp": "5260"
+    },
+    {
+      "id": "10845",
+      "name": "MONTE POTRERO",
+      "cp": "4716"
+    },
+    {
+      "id": "10967",
+      "name": "MONTE REDONDO",
+      "cp": "4723"
+    },
+    {
+      "id": "11064",
+      "name": "MOTA BOTELLO",
+      "cp": "4705"
+    },
+    {
+      "id": "10780",
+      "name": "MOTEGASTA",
+      "cp": "5261"
+    },
+    {
+      "id": "10879",
+      "name": "MUTQUIN",
+      "cp": "5317"
+    },
+    {
+      "id": "16802",
+      "name": "NACIMIENTO",
+      "cp": "4750"
+    },
+    {
+      "id": "16803",
+      "name": "NACIMIENTOS DE ABAJO",
+      "cp": "4750"
+    },
+    {
+      "id": "10550",
+      "name": "NACIMIENTOS DE ARRIBA",
+      "cp": "4751"
+    },
+    {
+      "id": "10551",
+      "name": "NACIMIENTOS DE SAN ANTONIO",
+      "cp": "4751"
+    },
+    {
+      "id": "10552",
+      "name": "NACIMIENTOS DEL BOLSON",
+      "cp": "4751"
+    },
+    {
+      "id": "16875",
+      "name": "NAIPA",
+      "cp": "4723"
+    },
+    {
+      "id": "10424",
+      "name": "NAVAGUIN",
+      "cp": "5261"
+    },
+    {
+      "id": "16814",
+      "name": "NAVIGAN",
+      "cp": "5260"
+    },
+    {
+      "id": "16902",
+      "name": "NEGRO MUERTO",
+      "cp": "5340"
+    },
+    {
+      "id": "10651",
+      "name": "NOGALITO",
+      "cp": "4235"
+    },
+    {
+      "id": "10676",
+      "name": "OCHO VADOS",
+      "cp": "4713"
+    },
+    {
+      "id": "10425",
+      "name": "OJO DE AGUA",
+      "cp": "4701"
+    },
+    {
+      "id": "16941",
+      "name": "OJO DE AGUA",
+      "cp": "4750"
+    },
+    {
+      "id": "16903",
+      "name": "OJO DE AGUA",
+      "cp": "5340"
+    },
+    {
+      "id": "16785",
+      "name": "OJO DE LA CORTADERA",
+      "cp": "4750"
+    },
+    {
+      "id": "16861",
+      "name": "OLLITA",
+      "cp": "5260"
+    },
+    {
+      "id": "16829",
+      "name": "OLMOS",
+      "cp": "5260"
+    },
+    {
+      "id": "10781",
+      "name": "OLTA",
+      "cp": "5261"
+    },
+    {
+      "id": "10652",
+      "name": "ORELLANO",
+      "cp": "4235"
+    },
+    {
+      "id": "10968",
+      "name": "OVANTA",
+      "cp": "4723"
+    },
+    {
+      "id": "10924",
+      "name": "OVEJERIA",
+      "cp": "4139"
+    },
+    {
+      "id": "10653",
+      "name": "OYOLA",
+      "cp": "4235"
+    },
+    {
+      "id": "10925",
+      "name": "PAJANGUILLO",
+      "cp": "4139"
+    },
+    {
+      "id": "16904",
+      "name": "PALACIOS",
+      "cp": "5340"
+    },
+    {
+      "id": "16786",
+      "name": "PALO BLANCO",
+      "cp": "4750"
+    },
+    {
+      "id": "11037",
+      "name": "PALO BLANCO",
+      "cp": "5341"
+    },
+    {
+      "id": "10782",
+      "name": "PALO CRUZ",
+      "cp": "5261"
+    },
+    {
+      "id": "10846",
+      "name": "PALO LABRADO",
+      "cp": "4716"
+    },
+    {
+      "id": "10783",
+      "name": "PALO PARADO",
+      "cp": "4231"
+    },
+    {
+      "id": "16868",
+      "name": "PALO SECO",
+      "cp": "4139"
+    },
+    {
+      "id": "16847",
+      "name": "PALO SECO",
+      "cp": "5260"
+    },
+    {
+      "id": "10926",
+      "name": "PALOMA YACO",
+      "cp": "4139"
+    },
+    {
+      "id": "16933",
+      "name": "PAMPA",
+      "cp": "4707"
+    },
+    {
+      "id": "11038",
+      "name": "PAMPA BLANCA",
+      "cp": "5341"
+    },
+    {
+      "id": "10969",
+      "name": "PAMPA CHACRA",
+      "cp": "4723"
+    },
+    {
+      "id": "16787",
+      "name": "PAMPA CIENAGA",
+      "cp": "4750"
+    },
+    {
+      "id": "16830",
+      "name": "PAMPA POZO",
+      "cp": "5260"
+    },
+    {
+      "id": "16905",
+      "name": "PAN DE AZUCAR",
+      "cp": "5340"
+    },
+    {
+      "id": "16906",
+      "name": "PANTANOS",
+      "cp": "5340"
+    },
+    {
+      "id": "10553",
+      "name": "PAPA CHACRA",
+      "cp": "4751"
+    },
+    {
+      "id": "10784",
+      "name": "PARADA KILOMETRO 62",
+      "cp": "5263"
+    },
+    {
+      "id": "16839",
+      "name": "PARAJE LOS CHAÑARITOS",
+      "cp": "5260"
+    },
+    {
+      "id": "11039",
+      "name": "PASO SAN FRANCISCO",
+      "cp": "5341"
+    },
+    {
+      "id": "16907",
+      "name": "PASTOS AMARILLOS",
+      "cp": "5340"
+    },
+    {
+      "id": "16808",
+      "name": "PAYABUAYCA",
+      "cp": "4700"
+    },
+    {
+      "id": "10426",
+      "name": "PEÑAFLOR",
+      "cp": "4701"
+    },
+    {
+      "id": "11040",
+      "name": "PEÑAS BLANCAS",
+      "cp": "5331"
+    },
+    {
+      "id": "16810",
+      "name": "PEÑON",
+      "cp": "4700"
+    },
+    {
+      "id": "10927",
+      "name": "PIE DEL MEDANO",
+      "cp": "4139"
+    },
+    {
+      "id": "10554",
+      "name": "PIEDRA LARGA",
+      "cp": "4753"
+    },
+    {
+      "id": "10480",
+      "name": "PILCIAO",
+      "cp": "4740"
+    },
+    {
+      "id": "16908",
+      "name": "PILLAHUASI",
+      "cp": "5340"
+    },
+    {
+      "id": "16909",
+      "name": "PLANCHADA",
+      "cp": "5340"
+    },
+    {
+      "id": "11041",
+      "name": "PLAZA DE SAN PEDRO",
+      "cp": "5341"
+    },
+    {
+      "id": "16831",
+      "name": "PLUMERO",
+      "cp": "5260"
+    },
+    {
+      "id": "16910",
+      "name": "POCITOS",
+      "cp": "5340"
+    },
+    {
+      "id": "11065",
+      "name": "POLCOS",
+      "cp": "4707"
+    },
+    {
+      "id": "10880",
+      "name": "POMAN",
+      "cp": "5315"
+    },
+    {
+      "id": "10678",
+      "name": "POMANCILLO",
+      "cp": "4711"
+    },
+    {
+      "id": "11066",
+      "name": "PORTEZUELO",
+      "cp": "4716"
+    },
+    {
+      "id": "10785",
+      "name": "PORTILLO CHICO",
+      "cp": "5261"
+    },
+    {
+      "id": "16853",
+      "name": "POSTA",
+      "cp": "4718"
+    },
+    {
+      "id": "16788",
+      "name": "POTRERITO",
+      "cp": "4750"
+    },
+    {
+      "id": "10427",
+      "name": "POTRERO",
+      "cp": "4701"
+    },
+    {
+      "id": "10786",
+      "name": "POZANCONES",
+      "cp": "5260"
+    },
+    {
+      "id": "10555",
+      "name": "POZO DE PIEDRA",
+      "cp": "4751"
+    },
+    {
+      "id": "10847",
+      "name": "POZO DEL ALGARROBO",
+      "cp": "4723"
+    },
+    {
+      "id": "10848",
+      "name": "POZO DEL CAMPO",
+      "cp": "4723"
+    },
+    {
+      "id": "11067",
+      "name": "POZO DEL MISTOL",
+      "cp": "4705"
+    },
+    {
+      "id": "10654",
+      "name": "POZO GRANDE",
+      "cp": "4234"
+    },
+    {
+      "id": "10787",
+      "name": "POZOS CAVADOS",
+      "cp": "5266"
+    },
+    {
+      "id": "16804",
+      "name": "POZUELOS",
+      "cp": "4750"
+    },
+    {
+      "id": "16832",
+      "name": "PTO ESPINAL",
+      "cp": "5260"
+    },
+    {
+      "id": "10655",
+      "name": "PUEBLITO",
+      "cp": "4235"
+    },
+    {
+      "id": "27735",
+      "name": "PUERTA DE CORRAL QUEMADO",
+      "cp": "4751"
+    },
+    {
+      "id": "10970",
+      "name": "PUERTA GRANDE",
+      "cp": "4723"
+    },
+    {
+      "id": "16858",
+      "name": "PUERTO BLANCO",
+      "cp": "4750"
+    },
+    {
+      "id": "16790",
+      "name": "PUERTO CHIPI",
+      "cp": "4750"
+    },
+    {
+      "id": "16791",
+      "name": "PUERTO DE LA PAMPA",
+      "cp": "4750"
+    },
+    {
+      "id": "16789",
+      "name": "PUERTO POTRERO",
+      "cp": "4750"
+    },
+    {
+      "id": "10788",
+      "name": "PUESTO DE FADEL O DE LOBO",
+      "cp": "5260"
+    },
+    {
+      "id": "10971",
+      "name": "PUESTO DE LA VIUDA",
+      "cp": "4237"
+    },
+    {
+      "id": "10789",
+      "name": "PUESTO DE LOS MORALES",
+      "cp": "4231"
+    },
+    {
+      "id": "10790",
+      "name": "PUESTO DE VERA",
+      "cp": "5265"
+    },
+    {
+      "id": "10972",
+      "name": "PUESTO DEL MEDIO",
+      "cp": "4723"
+    },
+    {
+      "id": "10656",
+      "name": "PUESTO LOS GOMEZ",
+      "cp": "4235"
+    },
+    {
+      "id": "10791",
+      "name": "PUESTO SABATTE",
+      "cp": "5261"
+    },
+    {
+      "id": "27654",
+      "name": "PUNTA DE AGUA",
+      "cp": "5345"
+    },
+    {
+      "id": "10928",
+      "name": "PUNTA DE BALASTO",
+      "cp": "4139"
+    },
+    {
+      "id": "16833",
+      "name": "PUNTA DEL POZO",
+      "cp": "5260"
+    },
+    {
+      "id": "10973",
+      "name": "QUEBRACHAL",
+      "cp": "4723"
+    },
+    {
+      "id": "10428",
+      "name": "QUEBRACHO",
+      "cp": "4701"
+    },
+    {
+      "id": "10974",
+      "name": "QUEBRACHOS BLANCOS",
+      "cp": "4723"
+    },
+    {
+      "id": "16911",
+      "name": "QUEBRADA HONDA",
+      "cp": "5340"
+    },
+    {
+      "id": "16912",
+      "name": "QUEMADITA",
+      "cp": "5340"
+    },
+    {
+      "id": "16913",
+      "name": "QUEMADO",
+      "cp": "5340"
+    },
+    {
+      "id": "10975",
+      "name": "QUIMILPA",
+      "cp": "4723"
+    },
+    {
+      "id": "16914",
+      "name": "QUIQUERO",
+      "cp": "5340"
+    },
+    {
+      "id": "10792",
+      "name": "QUIROS",
+      "cp": "5266"
+    },
+    {
+      "id": "16915",
+      "name": "QUSTO",
+      "cp": "5340"
+    },
+    {
+      "id": "10849",
+      "name": "RAFAEL CASTILLO",
+      "cp": "4716"
+    },
+    {
+      "id": "10793",
+      "name": "RAMBLONES",
+      "cp": "5261"
+    },
+    {
+      "id": "10794",
+      "name": "RECREO",
+      "cp": "5260"
+    },
+    {
+      "id": "10976",
+      "name": "RETIRO",
+      "cp": "5317"
+    },
+    {
+      "id": "10881",
+      "name": "RETIRO DE COLANA",
+      "cp": "5317"
+    },
+    {
+      "id": "10882",
+      "name": "RINCON",
+      "cp": "5317"
+    },
+    {
+      "id": "16792",
+      "name": "RINCON GRANDE",
+      "cp": "4750"
+    },
+    {
+      "id": "16916",
+      "name": "RIO ABAJO",
+      "cp": "5340"
+    },
+    {
+      "id": "10795",
+      "name": "RIO CHICO",
+      "cp": "5265"
+    },
+    {
+      "id": "11042",
+      "name": "RIO COLORADO",
+      "cp": "5331"
+    },
+    {
+      "id": "10657",
+      "name": "RIO DE AVILA",
+      "cp": "4235"
+    },
+    {
+      "id": "10796",
+      "name": "RIO DE BAZANES",
+      "cp": "5261"
+    },
+    {
+      "id": "10797",
+      "name": "RIO DE DON DIEGO",
+      "cp": "5261"
+    },
+    {
+      "id": "10798",
+      "name": "RIO DE LA DORADA",
+      "cp": "5261"
+    },
+    {
+      "id": "10658",
+      "name": "RIO DE LA PLATA",
+      "cp": "4235"
+    },
+    {
+      "id": "16917",
+      "name": "RIO DE LOS INDIOS",
+      "cp": "5340"
+    },
+    {
+      "id": "10609",
+      "name": "RIO DEL TALA",
+      "cp": "4700"
+    },
+    {
+      "id": "11043",
+      "name": "RIO GRANDE",
+      "cp": "5341"
+    },
+    {
+      "id": "10429",
+      "name": "RIO LOS MOLINOS",
+      "cp": "4701"
+    },
+    {
+      "id": "16918",
+      "name": "RODEO",
+      "cp": "5340"
+    },
+    {
+      "id": "10556",
+      "name": "RODEO GERVAN",
+      "cp": "4751"
+    },
+    {
+      "id": "10482",
+      "name": "RODEO GRANDE",
+      "cp": "4740"
+    },
+    {
+      "id": "10883",
+      "name": "ROSARIO DE COLANA",
+      "cp": "5317"
+    },
+    {
+      "id": "16769",
+      "name": "ROSARIO DEL SUMALAO",
+      "cp": "4705"
+    },
+    {
+      "id": "11068",
+      "name": "ROSARIO DEL SUMALAO",
+      "cp": "4707"
+    },
+    {
+      "id": "16793",
+      "name": "RUMIMONION",
+      "cp": "4750"
+    },
+    {
+      "id": "11044",
+      "name": "SALADO",
+      "cp": "5331"
+    },
+    {
+      "id": "10977",
+      "name": "SALAUCA",
+      "cp": "4723"
+    },
+    {
+      "id": "10850",
+      "name": "SALCEDO",
+      "cp": "4716"
+    },
+    {
+      "id": "10430",
+      "name": "SAN ANTONIO",
+      "cp": "4701"
+    },
+    {
+      "id": "16794",
+      "name": "SAN ANTONIO",
+      "cp": "4750"
+    },
+    {
+      "id": "10799",
+      "name": "SAN ANTONIO",
+      "cp": "5264"
+    },
+    {
+      "id": "10800",
+      "name": "SAN ANTONIO DE LA PAZ",
+      "cp": "5264"
+    },
+    {
+      "id": "10679",
+      "name": "SAN ANTONIO DE P BLANCA",
+      "cp": "4707"
+    },
+    {
+      "id": "10851",
+      "name": "SAN ANTONIO DE PACLIN",
+      "cp": "4719"
+    },
+    {
+      "id": "10929",
+      "name": "SAN ANTONIO DEL CAJON",
+      "cp": "4139"
+    },
+    {
+      "id": "10680",
+      "name": "SAN ANTONIO FRAY M ESQUIU",
+      "cp": "4707"
+    },
+    {
+      "id": "10801",
+      "name": "SAN ANTONIO VIEJO",
+      "cp": "5264"
+    },
+    {
+      "id": "16795",
+      "name": "SAN BUENAVENTURA",
+      "cp": "4750"
+    },
+    {
+      "id": "11045",
+      "name": "SAN BUENAVENTURA",
+      "cp": "5340"
+    },
+    {
+      "id": "10598",
+      "name": "SAN FDO DEL VALLE DE CATAMARCA",
+      "cp": "4700"
+    },
+    {
+      "id": "10557",
+      "name": "SAN FERNANDO",
+      "cp": "4751"
+    },
+    {
+      "id": "10802",
+      "name": "SAN FRANCISCO",
+      "cp": "5265"
+    },
+    {
+      "id": "10589",
+      "name": "SAN GERONIMO",
+      "cp": "4728"
+    },
+    {
+      "id": "11069",
+      "name": "SAN ISIDRO",
+      "cp": "4707"
+    },
+    {
+      "id": "10659",
+      "name": "SAN JERONIMO",
+      "cp": "4235"
+    },
+    {
+      "id": "16599",
+      "name": "SAN JOSE",
+      "cp": "4139"
+    },
+    {
+      "id": "10431",
+      "name": "SAN JOSE",
+      "cp": "4701"
+    },
+    {
+      "id": "10803",
+      "name": "SAN JOSE",
+      "cp": "5319"
+    },
+    {
+      "id": "16869",
+      "name": "SAN JOSE BANDA",
+      "cp": "4139"
+    },
+    {
+      "id": "10677",
+      "name": "SAN JOSE DE PIEDRA BLANCA",
+      "cp": "4709"
+    },
+    {
+      "id": "11046",
+      "name": "SAN JOSE DE TINOGASTA",
+      "cp": "5341"
+    },
+    {
+      "id": "10930",
+      "name": "SAN JOSE NORTE",
+      "cp": "4139"
+    },
+    {
+      "id": "10590",
+      "name": "SAN LORENZO",
+      "cp": "4724"
+    },
+    {
+      "id": "10804",
+      "name": "SAN LORENZO",
+      "cp": "5261"
+    },
+    {
+      "id": "10978",
+      "name": "SAN LUIS",
+      "cp": "4723"
+    },
+    {
+      "id": "10805",
+      "name": "SAN MANUEL",
+      "cp": "5264"
+    },
+    {
+      "id": "10432",
+      "name": "SAN MARTIN",
+      "cp": "4234"
+    },
+    {
+      "id": "10591",
+      "name": "SAN MARTIN",
+      "cp": "5263"
+    },
+    {
+      "id": "10806",
+      "name": "SAN MIGUEL",
+      "cp": "5261"
+    },
+    {
+      "id": "10884",
+      "name": "SAN MIGUEL",
+      "cp": "5321"
+    },
+    {
+      "id": "10807",
+      "name": "SAN NICOLAS",
+      "cp": "5261"
+    },
+    {
+      "id": "10592",
+      "name": "SAN PABLO",
+      "cp": "4726"
+    },
+    {
+      "id": "27736",
+      "name": "SAN PEDRO",
+      "cp": "4723"
+    },
+    {
+      "id": "10593",
+      "name": "SAN PEDRO CAPAYAN",
+      "cp": "4726"
+    },
+    {
+      "id": "10808",
+      "name": "SAN RAFAEL",
+      "cp": "5260"
+    },
+    {
+      "id": "16848",
+      "name": "SAN ROQUE",
+      "cp": "5260"
+    },
+    {
+      "id": "10660",
+      "name": "SAN VICENTE",
+      "cp": "4235"
+    },
+    {
+      "id": "16834",
+      "name": "SANCHO",
+      "cp": "5260"
+    },
+    {
+      "id": "10852",
+      "name": "SANTA ANA",
+      "cp": "4718"
+    },
+    {
+      "id": "10853",
+      "name": "SANTA BARBARA",
+      "cp": "4718"
+    },
+    {
+      "id": "11070",
+      "name": "SANTA CRUZ",
+      "cp": "4705"
+    },
+    {
+      "id": "11047",
+      "name": "SANTA CRUZ",
+      "cp": "5331"
+    },
+    {
+      "id": "10433",
+      "name": "SANTA GERTRUDIS",
+      "cp": "4701"
+    },
+    {
+      "id": "10809",
+      "name": "SANTA LUCIA",
+      "cp": "5260"
+    },
+    {
+      "id": "10931",
+      "name": "SANTA MARIA",
+      "cp": "4139"
+    },
+    {
+      "id": "11071",
+      "name": "SANTA ROSA",
+      "cp": "4707"
+    },
+    {
+      "id": "11048",
+      "name": "SANTA ROSA",
+      "cp": "5343"
+    },
+    {
+      "id": "10810",
+      "name": "SANTO DOMINGO",
+      "cp": "5260"
+    },
+    {
+      "id": "11049",
+      "name": "SANTO TOMAS",
+      "cp": "5341"
+    },
+    {
+      "id": "16876",
+      "name": "SANTOS LUGARES",
+      "cp": "4723"
+    },
+    {
+      "id": "16809",
+      "name": "SAUCE",
+      "cp": "4700"
+    },
+    {
+      "id": "10434",
+      "name": "SAUCE DE LOS CEJAS",
+      "cp": "5265"
+    },
+    {
+      "id": "10661",
+      "name": "SAUCE HUACHO",
+      "cp": "4235"
+    },
+    {
+      "id": "10435",
+      "name": "SAUCE HUACHO",
+      "cp": "4701"
+    },
+    {
+      "id": "10854",
+      "name": "SAUCE MAYO",
+      "cp": "4722"
+    },
+    {
+      "id": "10885",
+      "name": "SAUJIL",
+      "cp": "5321"
+    },
+    {
+      "id": "11050",
+      "name": "SAUJIL DE TINOGASTA",
+      "cp": "5341"
+    },
+    {
+      "id": "16934",
+      "name": "SEBILA",
+      "cp": "4707"
+    },
+    {
+      "id": "16860",
+      "name": "SEBILA",
+      "cp": "4728"
+    },
+    {
+      "id": "16807",
+      "name": "SEBILA",
+      "cp": "4750"
+    },
+    {
+      "id": "16796",
+      "name": "SHINCAL",
+      "cp": "4750"
+    },
+    {
+      "id": "10811",
+      "name": "SICHA",
+      "cp": "5265"
+    },
+    {
+      "id": "10682",
+      "name": "SIERRA BRAVA",
+      "cp": "4711"
+    },
+    {
+      "id": "10886",
+      "name": "SIJAN",
+      "cp": "5319"
+    },
+    {
+      "id": "10350",
+      "name": "SINGUIL",
+      "cp": "4711"
+    },
+    {
+      "id": "10594",
+      "name": "SISIGUASI",
+      "cp": "4724"
+    },
+    {
+      "id": "10662",
+      "name": "SOLEDAD",
+      "cp": "4701"
+    },
+    {
+      "id": "10663",
+      "name": "SUCUMA",
+      "cp": "4235"
+    },
+    {
+      "id": "11072",
+      "name": "SUMALAO",
+      "cp": "4705"
+    },
+    {
+      "id": "10855",
+      "name": "SUMAMPA",
+      "cp": "4722"
+    },
+    {
+      "id": "16919",
+      "name": "SUNCHO",
+      "cp": "5340"
+    },
+    {
+      "id": "10856",
+      "name": "SUPERI",
+      "cp": "4718"
+    },
+    {
+      "id": "10664",
+      "name": "SURUIPIANA",
+      "cp": "4235"
+    },
+    {
+      "id": "16770",
+      "name": "TACAHUASI",
+      "cp": "4705"
+    },
+    {
+      "id": "10436",
+      "name": "TACANA",
+      "cp": "4701"
+    },
+    {
+      "id": "10437",
+      "name": "TACO DE ABAJO",
+      "cp": "4701"
+    },
+    {
+      "id": "10812",
+      "name": "TACOPAMPA",
+      "cp": "5261"
+    },
+    {
+      "id": "16835",
+      "name": "TAJAMARES",
+      "cp": "5260"
+    },
+    {
+      "id": "16935",
+      "name": "TALA",
+      "cp": "4707"
+    },
+    {
+      "id": "16920",
+      "name": "TALA ZAPATA",
+      "cp": "5340"
+    },
+    {
+      "id": "10857",
+      "name": "TALAGUADA",
+      "cp": "4718"
+    },
+    {
+      "id": "10558",
+      "name": "TALAMAYO",
+      "cp": "4750"
+    },
+    {
+      "id": "16921",
+      "name": "TALAR",
+      "cp": "5265"
+    },
+    {
+      "id": "10666",
+      "name": "TALEGA",
+      "cp": "4235"
+    },
+    {
+      "id": "16922",
+      "name": "TALITA",
+      "cp": "5340"
+    },
+    {
+      "id": "16923",
+      "name": "TAMBERIA",
+      "cp": "5340"
+    },
+    {
+      "id": "16924",
+      "name": "TAMBU",
+      "cp": "5340"
+    },
+    {
+      "id": "10667",
+      "name": "TAPSO",
+      "cp": "4234"
+    },
+    {
+      "id": "11051",
+      "name": "TATON",
+      "cp": "5341"
+    },
+    {
+      "id": "10595",
+      "name": "TELARITOS",
+      "cp": "5263"
+    },
+    {
+      "id": "10858",
+      "name": "TIERRA VERDE",
+      "cp": "4719"
+    },
+    {
+      "id": "16836",
+      "name": "TINAJERA",
+      "cp": "5260"
+    },
+    {
+      "id": "11052",
+      "name": "TINOGASTA",
+      "cp": "5340"
+    },
+    {
+      "id": "10668",
+      "name": "TINTIGASTA",
+      "cp": "4235"
+    },
+    {
+      "id": "16936",
+      "name": "TIORCO",
+      "cp": "4707"
+    },
+    {
+      "id": "16771",
+      "name": "TORO MUERTO",
+      "cp": "4705"
+    },
+    {
+      "id": "10932",
+      "name": "TOROYACO",
+      "cp": "4139"
+    },
+    {
+      "id": "16925",
+      "name": "TOTORA",
+      "cp": "5340"
+    },
+    {
+      "id": "10438",
+      "name": "TOTORAL",
+      "cp": "4701"
+    },
+    {
+      "id": "10933",
+      "name": "TOTORILLA",
+      "cp": "4139"
+    },
+    {
+      "id": "10596",
+      "name": "TRAMPASACHA",
+      "cp": "4728"
+    },
+    {
+      "id": "11073",
+      "name": "TRES PUENTES",
+      "cp": "4707"
+    },
+    {
+      "id": "16926",
+      "name": "TROYA",
+      "cp": "5340"
+    },
+    {
+      "id": "10813",
+      "name": "TULA",
+      "cp": "5264"
+    },
+    {
+      "id": "10887",
+      "name": "TUSCUMAYO",
+      "cp": "5315"
+    },
+    {
+      "id": "16927",
+      "name": "VALLECITO",
+      "cp": "5340"
+    },
+    {
+      "id": "16928",
+      "name": "VEGA",
+      "cp": "5340"
+    },
+    {
+      "id": "16772",
+      "name": "VEGA CURUTU",
+      "cp": "4705"
+    },
+    {
+      "id": "16773",
+      "name": "VEGA TAMBERIA",
+      "cp": "4705"
+    },
+    {
+      "id": "10560",
+      "name": "VICUÑA PAMPA",
+      "cp": "4751"
+    },
+    {
+      "id": "10669",
+      "name": "VILISMAN",
+      "cp": "4235"
+    },
+    {
+      "id": "10859",
+      "name": "VILLA COLLANTES",
+      "cp": "4719"
+    },
+    {
+      "id": "10483",
+      "name": "VILLA CORONEL ARROYO",
+      "cp": "4741"
+    },
+    {
+      "id": "10611",
+      "name": "VILLA CUBAS",
+      "cp": "4700"
+    },
+    {
+      "id": "11074",
+      "name": "VILLA DOLORES",
+      "cp": "4707"
+    },
+    {
+      "id": "10683",
+      "name": "VILLA LAS PIRQUITAS",
+      "cp": "4713"
+    },
+    {
+      "id": "11075",
+      "name": "VILLA MACEDO",
+      "cp": "4707"
+    },
+    {
+      "id": "16837",
+      "name": "VILLA OFELIA",
+      "cp": "5260"
+    },
+    {
+      "id": "10612",
+      "name": "VILLA PARQUE CHACABUCO",
+      "cp": "4700"
+    },
+    {
+      "id": "10351",
+      "name": "VILLA QUINTIN AHUMADA",
+      "cp": "4715"
+    },
+    {
+      "id": "11053",
+      "name": "VILLA SAN ROQUE",
+      "cp": "5343"
+    },
+    {
+      "id": "11054",
+      "name": "VILLA SELEME",
+      "cp": "5331"
+    },
+    {
+      "id": "16838",
+      "name": "VILLA SOTOMAYOR",
+      "cp": "5260"
+    },
+    {
+      "id": "10559",
+      "name": "VILLA VIL",
+      "cp": "4751"
+    },
+    {
+      "id": "11055",
+      "name": "VIÑA DEL CERRO",
+      "cp": "5333"
+    },
+    {
+      "id": "16929",
+      "name": "VINQUIS",
+      "cp": "5340"
+    },
+    {
+      "id": "16797",
+      "name": "VISCOTE",
+      "cp": "4750"
+    },
+    {
+      "id": "16930",
+      "name": "YACOCHUYO",
+      "cp": "5340"
+    },
+    {
+      "id": "16870",
+      "name": "YAPES",
+      "cp": "4139"
+    },
+    {
+      "id": "16849",
+      "name": "YAPES",
+      "cp": "5260"
+    },
+    {
+      "id": "10979",
+      "name": "YAQUICHO",
+      "cp": "4723"
+    },
+    {
+      "id": "10439",
+      "name": "YERBA BUENA",
+      "cp": "5265"
+    },
+    {
+      "id": "10860",
+      "name": "YOCAN",
+      "cp": "4716"
+    },
+    {
+      "id": "16937",
+      "name": "ZANJA",
+      "cp": "4707"
+    },
+    {
+      "id": "16798",
+      "name": "ZARCITO",
+      "cp": "4750"
+    },
+    {
+      "id": "16799",
+      "name": "ZARZA",
+      "cp": "4750"
+    }
+  ]
+}

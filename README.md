@@ -1,7 +1,10 @@
 # arg-localities
 
 Get localities by province for Argentina from Correo Argentino official web page.
-All localities are uploaded, but they can be automatically downloaded just by running
+All localities are uploaded, but they can be automatically downloaded.
+First, you have to install [jq](https://stedolan.github.io/jq/) for formatting json ouput.
+On Ubuntu systems, just run `sudo apt install jq`.
+Then, update all localities files just by running
 
   `$ ./arg-localities.sh`
 
